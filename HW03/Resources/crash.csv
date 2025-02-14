@@ -1,0 +1,892 @@
+,PassengerId,Survived,Class,Name,Sex,Age,Ticket Price,Safety
+0,1,Didn't Survive,Economy,"Braund, Mr. Owen Harris",male,22.0,7.25,0.33695652173913043
+1,2,Survived,First Class,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0,71.2833,0.5535714285714286
+2,3,Survived,Economy,"Heikkinen, Miss. Laina",female,26.0,7.925,0.33695652173913043
+3,4,Survived,First Class,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35.0,53.1,0.33695652173913043
+4,5,Didn't Survive,Economy,"Allen, Mr. William Henry",male,35.0,8.05,0.33695652173913043
+5,6,Didn't Survive,Economy,"Moran, Mr. James",male,,8.4583,0.38961038961038963
+6,7,Didn't Survive,First Class,"McCarthy, Mr. Timothy J",male,54.0,51.8625,0.33695652173913043
+7,8,Didn't Survive,Economy,"Palsson, Master. Gosta Leonard",male,2.0,21.075,0.33695652173913043
+8,9,Survived,Economy,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27.0,11.1333,0.33695652173913043
+9,10,Survived,Business,"Nasser, Mrs. Nicholas (Adele Achem)",female,14.0,30.0708,0.5535714285714286
+10,11,Survived,Economy,"Sandstrom, Miss. Marguerite Rut",female,4.0,16.7,0.33695652173913043
+11,12,Survived,First Class,"Bonnell, Miss. Elizabeth",female,58.0,26.55,0.33695652173913043
+12,13,Didn't Survive,Economy,"Saundercock, Mr. William Henry",male,20.0,8.05,0.33695652173913043
+13,14,Didn't Survive,Economy,"Andersson, Mr. Anders Johan",male,39.0,31.275,0.33695652173913043
+14,15,Didn't Survive,Economy,"Vestrom, Miss. Hulda Amanda Adolfina",female,14.0,7.8542,0.33695652173913043
+15,16,Survived,Business,"Hewlett, Mrs. (Mary D Kingcome) ",female,55.0,16.0,0.33695652173913043
+16,17,Didn't Survive,Economy,"Rice, Master. Eugene",male,2.0,29.125,0.38961038961038963
+17,18,Survived,Business,"Williams, Mr. Charles Eugene",male,,13.0,0.33695652173913043
+18,19,Didn't Survive,Economy,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31.0,18.0,0.33695652173913043
+19,20,Survived,Economy,"Masselmani, Mrs. Fatima",female,,7.225,0.5535714285714286
+20,21,Didn't Survive,Business,"Fynney, Mr. Joseph J",male,35.0,26.0,0.33695652173913043
+21,22,Survived,Business,"Beesley, Mr. Lawrence",male,34.0,13.0,0.33695652173913043
+22,23,Survived,Economy,"McGowan, Miss. Anna ""Annie""",female,15.0,8.0292,0.38961038961038963
+23,24,Survived,First Class,"Sloper, Mr. William Thompson",male,28.0,35.5,0.33695652173913043
+24,25,Didn't Survive,Economy,"Palsson, Miss. Torborg Danira",female,8.0,21.075,0.33695652173913043
+25,26,Survived,Economy,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38.0,31.3875,0.33695652173913043
+26,27,Didn't Survive,Economy,"Emir, Mr. Farred Chehab",male,,7.225,0.5535714285714286
+27,28,Didn't Survive,First Class,"Fortune, Mr. Charles Alexander",male,19.0,263.0,0.33695652173913043
+28,29,Survived,Economy,"O'Dwyer, Miss. Ellen ""Nellie""",female,,7.8792,0.38961038961038963
+29,30,Didn't Survive,Economy,"Todoroff, Mr. Lalio",male,,7.8958,0.33695652173913043
+30,31,Didn't Survive,First Class,"Uruchurtu, Don. Manuel E",male,40.0,27.7208,0.5535714285714286
+31,32,Survived,First Class,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,,146.5208,0.5535714285714286
+32,33,Survived,Economy,"Glynn, Miss. Mary Agatha",female,,7.75,0.38961038961038963
+33,34,Didn't Survive,Business,"Wheadon, Mr. Edward H",male,66.0,10.5,0.33695652173913043
+34,35,Didn't Survive,First Class,"Meyer, Mr. Edgar Joseph",male,28.0,82.1708,0.5535714285714286
+35,36,Didn't Survive,First Class,"Holverson, Mr. Alexander Oskar",male,42.0,52.0,0.33695652173913043
+36,37,Survived,Economy,"Mamee, Mr. Hanna",male,,7.2292,0.5535714285714286
+37,38,Didn't Survive,Economy,"Cann, Mr. Ernest Charles",male,21.0,8.05,0.33695652173913043
+38,39,Didn't Survive,Economy,"Vander Planke, Miss. Augusta Maria",female,18.0,18.0,0.33695652173913043
+39,40,Survived,Economy,"Nicola-Yarred, Miss. Jamila",female,14.0,11.2417,0.5535714285714286
+40,41,Didn't Survive,Economy,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40.0,9.475,0.33695652173913043
+41,42,Didn't Survive,Business,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27.0,21.0,0.33695652173913043
+42,43,Didn't Survive,Economy,"Kraeff, Mr. Theodor",male,,7.8958,0.5535714285714286
+43,44,Survived,Business,"Laroche, Miss. Simonne Marie Anne Andree",female,3.0,41.5792,0.5535714285714286
+44,45,Survived,Economy,"Devaney, Miss. Margaret Delia",female,19.0,7.8792,0.38961038961038963
+45,46,Didn't Survive,Economy,"Rogers, Mr. William John",male,,8.05,0.33695652173913043
+46,47,Didn't Survive,Economy,"Lennon, Mr. Denis",male,,15.5,0.38961038961038963
+47,48,Survived,Economy,"O'Driscoll, Miss. Bridget",female,,7.75,0.38961038961038963
+48,49,Didn't Survive,Economy,"Samaan, Mr. Youssef",male,,21.6792,0.5535714285714286
+49,50,Didn't Survive,Economy,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18.0,17.8,0.33695652173913043
+50,51,Didn't Survive,Economy,"Panula, Master. Juha Niilo",male,7.0,39.6875,0.33695652173913043
+51,52,Didn't Survive,Economy,"Nosworthy, Mr. Richard Cater",male,21.0,7.8,0.33695652173913043
+52,53,Survived,First Class,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49.0,76.7292,0.5535714285714286
+53,54,Survived,Business,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29.0,26.0,0.33695652173913043
+54,55,Didn't Survive,First Class,"Ostby, Mr. Engelhart Cornelius",male,65.0,61.9792,0.5535714285714286
+55,56,Survived,First Class,"Woolner, Mr. Hugh",male,,35.5,0.33695652173913043
+56,57,Survived,Business,"Rugg, Miss. Emily",female,21.0,10.5,0.33695652173913043
+57,58,Didn't Survive,Economy,"Novel, Mr. Mansouer",male,28.5,7.2292,0.5535714285714286
+58,59,Survived,Business,"West, Miss. Constance Mirium",female,5.0,27.75,0.33695652173913043
+59,60,Didn't Survive,Economy,"Goodwin, Master. William Frederick",male,11.0,46.9,0.33695652173913043
+60,61,Didn't Survive,Economy,"Sirayanian, Mr. Orsen",male,22.0,7.2292,0.5535714285714286
+61,62,Survived,First Class,"Icard, Miss. Amelie",female,38.0,80.0,
+62,63,Didn't Survive,First Class,"Harris, Mr. Henry Birkhardt",male,45.0,83.475,0.33695652173913043
+63,64,Didn't Survive,Economy,"Skoog, Master. Harald",male,4.0,27.9,0.33695652173913043
+64,65,Didn't Survive,First Class,"Stewart, Mr. Albert A",male,,27.7208,0.5535714285714286
+65,66,Survived,Economy,"Moubarek, Master. Gerios",male,,15.2458,0.5535714285714286
+66,67,Survived,Business,"Nye, Mrs. (Elizabeth Ramell)",female,29.0,10.5,0.33695652173913043
+67,68,Didn't Survive,Economy,"Crease, Mr. Ernest James",male,19.0,8.1583,0.33695652173913043
+68,69,Survived,Economy,"Andersson, Miss. Erna Alexandra",female,17.0,7.925,0.33695652173913043
+69,70,Didn't Survive,Economy,"Kink, Mr. Vincenz",male,26.0,8.6625,0.33695652173913043
+70,71,Didn't Survive,Business,"Jenkin, Mr. Stephen Curnow",male,32.0,10.5,0.33695652173913043
+71,72,Didn't Survive,Economy,"Goodwin, Miss. Lillian Amy",female,16.0,46.9,0.33695652173913043
+72,73,Didn't Survive,Business,"Hood, Mr. Ambrose Jr",male,21.0,73.5,0.33695652173913043
+73,74,Didn't Survive,Economy,"Chronopoulos, Mr. Apostolos",male,26.0,14.4542,0.5535714285714286
+74,75,Survived,Economy,"Bing, Mr. Lee",male,32.0,56.4958,0.33695652173913043
+75,76,Didn't Survive,Economy,"Moen, Mr. Sigurd Hansen",male,25.0,7.65,0.33695652173913043
+76,77,Didn't Survive,Economy,"Staneff, Mr. Ivan",male,,7.8958,0.33695652173913043
+77,78,Didn't Survive,Economy,"Moutal, Mr. Rahamin Haim",male,,8.05,0.33695652173913043
+78,79,Survived,Business,"Caldwell, Master. Alden Gates",male,0.83,29.0,0.33695652173913043
+79,80,Survived,Economy,"Dowdell, Miss. Elizabeth",female,30.0,12.475,0.33695652173913043
+80,81,Didn't Survive,Economy,"Waelens, Mr. Achille",male,22.0,9.0,0.33695652173913043
+81,82,Survived,Economy,"Sheerlinck, Mr. Jan Baptist",male,29.0,9.5,0.33695652173913043
+82,83,Survived,Economy,"McDermott, Miss. Brigdet Delia",female,,7.7875,0.38961038961038963
+83,84,Didn't Survive,First Class,"Carrau, Mr. Francisco M",male,28.0,47.1,0.33695652173913043
+84,85,Survived,Business,"Ilett, Miss. Bertha",female,17.0,10.5,0.33695652173913043
+85,86,Survived,Economy,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33.0,15.85,0.33695652173913043
+86,87,Didn't Survive,Economy,"Ford, Mr. William Neal",male,16.0,34.375,0.33695652173913043
+87,88,Didn't Survive,Economy,"Slocovski, Mr. Selman Francis",male,,8.05,0.33695652173913043
+88,89,Survived,First Class,"Fortune, Miss. Mabel Helen",female,23.0,263.0,0.33695652173913043
+89,90,Didn't Survive,Economy,"Celotti, Mr. Francesco",male,24.0,8.05,0.33695652173913043
+90,91,Didn't Survive,Economy,"Christmann, Mr. Emil",male,29.0,8.05,0.33695652173913043
+91,92,Didn't Survive,Economy,"Andreasson, Mr. Paul Edvin",male,20.0,7.8542,0.33695652173913043
+92,93,Didn't Survive,First Class,"Chaffee, Mr. Herbert Fuller",male,46.0,61.175,0.33695652173913043
+93,94,Didn't Survive,Economy,"Dean, Mr. Bertram Frank",male,26.0,20.575,0.33695652173913043
+94,95,Didn't Survive,Economy,"Coxon, Mr. Daniel",male,59.0,7.25,0.33695652173913043
+95,96,Didn't Survive,Economy,"Shorney, Mr. Charles Joseph",male,,8.05,0.33695652173913043
+96,97,Didn't Survive,First Class,"Goldschmidt, Mr. George B",male,71.0,34.6542,0.5535714285714286
+97,98,Survived,First Class,"Greenfield, Mr. William Bertram",male,23.0,63.3583,0.5535714285714286
+98,99,Survived,Business,"Doling, Mrs. John T (Ada Julia Bone)",female,34.0,23.0,0.33695652173913043
+99,100,Didn't Survive,Business,"Kantor, Mr. Sinai",male,34.0,26.0,0.33695652173913043
+100,101,Didn't Survive,Economy,"Petranec, Miss. Matilda",female,28.0,7.8958,0.33695652173913043
+101,102,Didn't Survive,Economy,"Petroff, Mr. Pastcho (""Pentcho"")",male,,7.8958,0.33695652173913043
+102,103,Didn't Survive,First Class,"White, Mr. Richard Frasar",male,21.0,77.2875,0.33695652173913043
+103,104,Didn't Survive,Economy,"Johansson, Mr. Gustaf Joel",male,33.0,8.6542,0.33695652173913043
+104,105,Didn't Survive,Economy,"Gustafsson, Mr. Anders Vilhelm",male,37.0,7.925,0.33695652173913043
+105,106,Didn't Survive,Economy,"Mionoff, Mr. Stoytcho",male,28.0,7.8958,0.33695652173913043
+106,107,Survived,Economy,"Salkjelsvik, Miss. Anna Kristine",female,21.0,7.65,0.33695652173913043
+107,108,Survived,Economy,"Moss, Mr. Albert Johan",male,,7.775,0.33695652173913043
+108,109,Didn't Survive,Economy,"Rekic, Mr. Tido",male,38.0,7.8958,0.33695652173913043
+109,110,Survived,Economy,"Moran, Miss. Bertha",female,,24.15,0.38961038961038963
+110,111,Didn't Survive,First Class,"Porter, Mr. Walter Chamberlain",male,47.0,52.0,0.33695652173913043
+111,112,Didn't Survive,Economy,"Zabour, Miss. Hileni",female,14.5,14.4542,0.5535714285714286
+112,113,Didn't Survive,Economy,"Barton, Mr. David John",male,22.0,8.05,0.33695652173913043
+113,114,Didn't Survive,Economy,"Jussila, Miss. Katriina",female,20.0,9.825,0.33695652173913043
+114,115,Didn't Survive,Economy,"Attalah, Miss. Malake",female,17.0,14.4583,0.5535714285714286
+115,116,Didn't Survive,Economy,"Pekoniemi, Mr. Edvard",male,21.0,7.925,0.33695652173913043
+116,117,Didn't Survive,Economy,"Connors, Mr. Patrick",male,70.5,7.75,0.38961038961038963
+117,118,Didn't Survive,Business,"Turpin, Mr. William John Robert",male,29.0,21.0,0.33695652173913043
+118,119,Didn't Survive,First Class,"Baxter, Mr. Quigg Edmond",male,24.0,247.5208,0.5535714285714286
+119,120,Didn't Survive,Economy,"Andersson, Miss. Ellis Anna Maria",female,2.0,31.275,0.33695652173913043
+120,121,Didn't Survive,Business,"Hickman, Mr. Stanley George",male,21.0,73.5,0.33695652173913043
+121,122,Didn't Survive,Economy,"Moore, Mr. Leonard Charles",male,,8.05,0.33695652173913043
+122,123,Didn't Survive,Business,"Nasser, Mr. Nicholas",male,32.5,30.0708,0.5535714285714286
+123,124,Survived,Business,"Webber, Miss. Susan",female,32.5,13.0,0.33695652173913043
+124,125,Didn't Survive,First Class,"White, Mr. Percival Wayland",male,54.0,77.2875,0.33695652173913043
+125,126,Survived,Economy,"Nicola-Yarred, Master. Elias",male,12.0,11.2417,0.5535714285714286
+126,127,Didn't Survive,Economy,"McMahon, Mr. Martin",male,,7.75,0.38961038961038963
+127,128,Survived,Economy,"Madsen, Mr. Fridtjof Arne",male,24.0,7.1417,0.33695652173913043
+128,129,Survived,Economy,"Peter, Miss. Anna",female,,22.3583,0.5535714285714286
+129,130,Didn't Survive,Economy,"Ekstrom, Mr. Johan",male,45.0,6.975,0.33695652173913043
+130,131,Didn't Survive,Economy,"Drazenoic, Mr. Jozef",male,33.0,7.8958,0.5535714285714286
+131,132,Didn't Survive,Economy,"Coelho, Mr. Domingos Fernandeo",male,20.0,7.05,0.33695652173913043
+132,133,Didn't Survive,Economy,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,47.0,14.5,0.33695652173913043
+133,134,Survived,Business,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29.0,26.0,0.33695652173913043
+134,135,Didn't Survive,Business,"Sobey, Mr. Samuel James Hayden",male,25.0,13.0,0.33695652173913043
+135,136,Didn't Survive,Business,"Richard, Mr. Emile",male,23.0,15.0458,0.5535714285714286
+136,137,Survived,First Class,"Newsom, Miss. Helen Monypeny",female,19.0,26.2833,0.33695652173913043
+137,138,Didn't Survive,First Class,"Futrelle, Mr. Jacques Heath",male,37.0,53.1,0.33695652173913043
+138,139,Didn't Survive,Economy,"Osen, Mr. Olaf Elon",male,16.0,9.2167,0.33695652173913043
+139,140,Didn't Survive,First Class,"Giglio, Mr. Victor",male,24.0,79.2,0.5535714285714286
+140,141,Didn't Survive,Economy,"Boulos, Mrs. Joseph (Sultana)",female,,15.2458,0.5535714285714286
+141,142,Survived,Economy,"Nysten, Miss. Anna Sofia",female,22.0,7.75,0.33695652173913043
+142,143,Survived,Economy,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24.0,15.85,0.33695652173913043
+143,144,Didn't Survive,Economy,"Burke, Mr. Jeremiah",male,19.0,6.75,0.38961038961038963
+144,145,Didn't Survive,Business,"Andrew, Mr. Edgardo Samuel",male,18.0,11.5,0.33695652173913043
+145,146,Didn't Survive,Business,"Nicholls, Mr. Joseph Charles",male,19.0,36.75,0.33695652173913043
+146,147,Survived,Economy,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27.0,7.7958,0.33695652173913043
+147,148,Didn't Survive,Economy,"Ford, Miss. Robina Maggie ""Ruby""",female,9.0,34.375,0.33695652173913043
+148,149,Didn't Survive,Business,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,36.5,26.0,0.33695652173913043
+149,150,Didn't Survive,Business,"Byles, Rev. Thomas Roussel Davids",male,42.0,13.0,0.33695652173913043
+150,151,Didn't Survive,Business,"Bateman, Rev. Robert James",male,51.0,12.525,0.33695652173913043
+151,152,Survived,First Class,"Pears, Mrs. Thomas (Edith Wearne)",female,22.0,66.6,0.33695652173913043
+152,153,Didn't Survive,Economy,"Meo, Mr. Alfonzo",male,55.5,8.05,0.33695652173913043
+153,154,Didn't Survive,Economy,"van Billiard, Mr. Austin Blyler",male,40.5,14.5,0.33695652173913043
+154,155,Didn't Survive,Economy,"Olsen, Mr. Ole Martin",male,,7.3125,0.33695652173913043
+155,156,Didn't Survive,First Class,"Williams, Mr. Charles Duane",male,51.0,61.3792,0.5535714285714286
+156,157,Survived,Economy,"Gilnagh, Miss. Katherine ""Katie""",female,16.0,7.7333,0.38961038961038963
+157,158,Didn't Survive,Economy,"Corn, Mr. Harry",male,30.0,8.05,0.33695652173913043
+158,159,Didn't Survive,Economy,"Smiljanic, Mr. Mile",male,,8.6625,0.33695652173913043
+159,160,Didn't Survive,Economy,"Sage, Master. Thomas Henry",male,,69.55,0.33695652173913043
+160,161,Didn't Survive,Economy,"Cribb, Mr. John Hatfield",male,44.0,16.1,0.33695652173913043
+161,162,Survived,Business,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40.0,15.75,0.33695652173913043
+162,163,Didn't Survive,Economy,"Bengtsson, Mr. John Viktor",male,26.0,7.775,0.33695652173913043
+163,164,Didn't Survive,Economy,"Calic, Mr. Jovo",male,17.0,8.6625,0.33695652173913043
+164,165,Didn't Survive,Economy,"Panula, Master. Eino Viljami",male,1.0,39.6875,0.33695652173913043
+165,166,Survived,Economy,"Goldsmith, Master. Frank John William ""Frankie""",male,9.0,20.525,0.33695652173913043
+166,167,Survived,First Class,"Chibnall, Mrs. (Edith Martha Bowerman)",female,,55.0,0.33695652173913043
+167,168,Didn't Survive,Economy,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,45.0,27.9,0.33695652173913043
+168,169,Didn't Survive,First Class,"Baumann, Mr. John D",male,,25.925,0.33695652173913043
+169,170,Didn't Survive,Economy,"Ling, Mr. Lee",male,28.0,56.4958,0.33695652173913043
+170,171,Didn't Survive,First Class,"Van der hoef, Mr. Wyckoff",male,61.0,33.5,0.33695652173913043
+171,172,Didn't Survive,Economy,"Rice, Master. Arthur",male,4.0,29.125,0.38961038961038963
+172,173,Survived,Economy,"Johnson, Miss. Eleanor Ileen",female,1.0,11.1333,0.33695652173913043
+173,174,Didn't Survive,Economy,"Sivola, Mr. Antti Wilhelm",male,21.0,7.925,0.33695652173913043
+174,175,Didn't Survive,First Class,"Smith, Mr. James Clinch",male,56.0,30.6958,0.5535714285714286
+175,176,Didn't Survive,Economy,"Klasen, Mr. Klas Albin",male,18.0,7.8542,0.33695652173913043
+176,177,Didn't Survive,Economy,"Lefebre, Master. Henry Forbes",male,,25.4667,0.33695652173913043
+177,178,Didn't Survive,First Class,"Isham, Miss. Ann Elizabeth",female,50.0,28.7125,0.5535714285714286
+178,179,Didn't Survive,Business,"Hale, Mr. Reginald",male,30.0,13.0,0.33695652173913043
+179,180,Didn't Survive,Economy,"Leonard, Mr. Lionel",male,36.0,0.0,0.33695652173913043
+180,181,Didn't Survive,Economy,"Sage, Miss. Constance Gladys",female,,69.55,0.33695652173913043
+181,182,Didn't Survive,Business,"Pernot, Mr. Rene",male,,15.05,0.5535714285714286
+182,183,Didn't Survive,Economy,"Asplund, Master. Clarence Gustaf Hugo",male,9.0,31.3875,0.33695652173913043
+183,184,Survived,Business,"Becker, Master. Richard F",male,1.0,39.0,0.33695652173913043
+184,185,Survived,Economy,"Kink-Heilmann, Miss. Luise Gretchen",female,4.0,22.025,0.33695652173913043
+185,186,Didn't Survive,First Class,"Rood, Mr. Hugh Roscoe",male,,50.0,0.33695652173913043
+186,187,Survived,Economy,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,,15.5,0.38961038961038963
+187,188,Survived,First Class,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45.0,26.55,0.33695652173913043
+188,189,Didn't Survive,Economy,"Bourke, Mr. John",male,40.0,15.5,0.38961038961038963
+189,190,Didn't Survive,Economy,"Turcin, Mr. Stjepan",male,36.0,7.8958,0.33695652173913043
+190,191,Survived,Business,"Pinsky, Mrs. (Rosa)",female,32.0,13.0,0.33695652173913043
+191,192,Didn't Survive,Business,"Carbines, Mr. William",male,19.0,13.0,0.33695652173913043
+192,193,Survived,Economy,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19.0,7.8542,0.33695652173913043
+193,194,Survived,Business,"Navratil, Master. Michel M",male,3.0,26.0,0.33695652173913043
+194,195,Survived,First Class,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44.0,27.7208,0.5535714285714286
+195,196,Survived,First Class,"Lurette, Miss. Elise",female,58.0,146.5208,0.5535714285714286
+196,197,Didn't Survive,Economy,"Mernagh, Mr. Robert",male,,7.75,0.38961038961038963
+197,198,Didn't Survive,Economy,"Olsen, Mr. Karl Siegwart Andreas",male,42.0,8.4042,0.33695652173913043
+198,199,Survived,Economy,"Madigan, Miss. Margaret ""Maggie""",female,,7.75,0.38961038961038963
+199,200,Didn't Survive,Business,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24.0,13.0,0.33695652173913043
+200,201,Didn't Survive,Economy,"Vande Walle, Mr. Nestor Cyriel",male,28.0,9.5,0.33695652173913043
+201,202,Didn't Survive,Economy,"Sage, Mr. Frederick",male,,69.55,0.33695652173913043
+202,203,Didn't Survive,Economy,"Johanson, Mr. Jakob Alfred",male,34.0,6.4958,0.33695652173913043
+203,204,Didn't Survive,Economy,"Youseff, Mr. Gerious",male,45.5,7.225,0.5535714285714286
+204,205,Survived,Economy,"Cohen, Mr. Gurshon ""Gus""",male,18.0,8.05,0.33695652173913043
+205,206,Didn't Survive,Economy,"Strom, Miss. Telma Matilda",female,2.0,10.4625,0.33695652173913043
+206,207,Didn't Survive,Economy,"Backstrom, Mr. Karl Alfred",male,32.0,15.85,0.33695652173913043
+207,208,Survived,Economy,"Albimona, Mr. Nassef Cassem",male,26.0,18.7875,0.5535714285714286
+208,209,Survived,Economy,"Carr, Miss. Helen ""Ellen""",female,16.0,7.75,0.38961038961038963
+209,210,Survived,First Class,"Blank, Mr. Henry",male,40.0,31.0,0.5535714285714286
+210,211,Didn't Survive,Economy,"Ali, Mr. Ahmed",male,24.0,7.05,0.33695652173913043
+211,212,Survived,Business,"Cameron, Miss. Clear Annie",female,35.0,21.0,0.33695652173913043
+212,213,Didn't Survive,Economy,"Perkin, Mr. John Henry",male,22.0,7.25,0.33695652173913043
+213,214,Didn't Survive,Business,"Givard, Mr. Hans Kristensen",male,30.0,13.0,0.33695652173913043
+214,215,Didn't Survive,Economy,"Kiernan, Mr. Philip",male,,7.75,0.38961038961038963
+215,216,Survived,First Class,"Newell, Miss. Madeleine",female,31.0,113.275,0.5535714285714286
+216,217,Survived,Economy,"Honkanen, Miss. Eliina",female,27.0,7.925,0.33695652173913043
+217,218,Didn't Survive,Business,"Jacobsohn, Mr. Sidney Samuel",male,42.0,27.0,0.33695652173913043
+218,219,Survived,First Class,"Bazzani, Miss. Albina",female,32.0,76.2917,0.5535714285714286
+219,220,Didn't Survive,Business,"Harris, Mr. Walter",male,30.0,10.5,0.33695652173913043
+220,221,Survived,Economy,"Sunderland, Mr. Victor Francis",male,16.0,8.05,0.33695652173913043
+221,222,Didn't Survive,Business,"Bracken, Mr. James H",male,27.0,13.0,0.33695652173913043
+222,223,Didn't Survive,Economy,"Green, Mr. George Henry",male,51.0,8.05,0.33695652173913043
+223,224,Didn't Survive,Economy,"Nenkoff, Mr. Christo",male,,7.8958,0.33695652173913043
+224,225,Survived,First Class,"Hoyt, Mr. Frederick Maxfield",male,38.0,90.0,0.33695652173913043
+225,226,Didn't Survive,Economy,"Berglund, Mr. Karl Ivar Sven",male,22.0,9.35,0.33695652173913043
+226,227,Survived,Business,"Mellors, Mr. William John",male,19.0,10.5,0.33695652173913043
+227,228,Didn't Survive,Economy,"Lovell, Mr. John Hall (""Henry"")",male,20.5,7.25,0.33695652173913043
+228,229,Didn't Survive,Business,"Fahlstrom, Mr. Arne Jonas",male,18.0,13.0,0.33695652173913043
+229,230,Didn't Survive,Economy,"Lefebre, Miss. Mathilde",female,,25.4667,0.33695652173913043
+230,231,Survived,First Class,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35.0,83.475,0.33695652173913043
+231,232,Didn't Survive,Economy,"Larsson, Mr. Bengt Edvin",male,29.0,7.775,0.33695652173913043
+232,233,Didn't Survive,Business,"Sjostedt, Mr. Ernst Adolf",male,59.0,13.5,0.33695652173913043
+233,234,Survived,Economy,"Asplund, Miss. Lillian Gertrud",female,5.0,31.3875,0.33695652173913043
+234,235,Didn't Survive,Business,"Leyson, Mr. Robert William Norman",male,24.0,10.5,0.33695652173913043
+235,236,Didn't Survive,Economy,"Harknett, Miss. Alice Phoebe",female,,7.55,0.33695652173913043
+236,237,Didn't Survive,Business,"Hold, Mr. Stephen",male,44.0,26.0,0.33695652173913043
+237,238,Survived,Business,"Collyer, Miss. Marjorie ""Lottie""",female,8.0,26.25,0.33695652173913043
+238,239,Didn't Survive,Business,"Pengelly, Mr. Frederick William",male,19.0,10.5,0.33695652173913043
+239,240,Didn't Survive,Business,"Hunt, Mr. George Henry",male,33.0,12.275,0.33695652173913043
+240,241,Didn't Survive,Economy,"Zabour, Miss. Thamine",female,,14.4542,0.5535714285714286
+241,242,Survived,Economy,"Murphy, Miss. Katherine ""Kate""",female,,15.5,0.38961038961038963
+242,243,Didn't Survive,Business,"Coleridge, Mr. Reginald Charles",male,29.0,10.5,0.33695652173913043
+243,244,Didn't Survive,Economy,"Maenpaa, Mr. Matti Alexanteri",male,22.0,7.125,0.33695652173913043
+244,245,Didn't Survive,Economy,"Attalah, Mr. Sleiman",male,30.0,7.225,0.5535714285714286
+245,246,Didn't Survive,First Class,"Minahan, Dr. William Edward",male,44.0,90.0,0.38961038961038963
+246,247,Didn't Survive,Economy,"Lindahl, Miss. Agda Thorilda Viktoria",female,25.0,7.775,0.33695652173913043
+247,248,Survived,Business,"Hamalainen, Mrs. William (Anna)",female,24.0,14.5,0.33695652173913043
+248,249,Survived,First Class,"Beckwith, Mr. Richard Leonard",male,37.0,52.5542,0.33695652173913043
+249,250,Didn't Survive,Business,"Carter, Rev. Ernest Courtenay",male,54.0,26.0,0.33695652173913043
+250,251,Didn't Survive,Economy,"Reed, Mr. James George",male,,7.25,0.33695652173913043
+251,252,Didn't Survive,Economy,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,29.0,10.4625,0.33695652173913043
+252,253,Didn't Survive,First Class,"Stead, Mr. William Thomas",male,62.0,26.55,0.33695652173913043
+253,254,Didn't Survive,Economy,"Lobb, Mr. William Arthur",male,30.0,16.1,0.33695652173913043
+254,255,Didn't Survive,Economy,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41.0,20.2125,0.33695652173913043
+255,256,Survived,Economy,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29.0,15.2458,0.5535714285714286
+256,257,Survived,First Class,"Thorne, Mrs. Gertrude Maybelle",female,,79.2,0.5535714285714286
+257,258,Survived,First Class,"Cherry, Miss. Gladys",female,30.0,86.5,0.33695652173913043
+258,259,Survived,First Class,"Ward, Miss. Anna",female,35.0,512.3292,0.5535714285714286
+259,260,Survived,Business,"Parrish, Mrs. (Lutie Davis)",female,50.0,26.0,0.33695652173913043
+260,261,Didn't Survive,Economy,"Smith, Mr. Thomas",male,,7.75,0.38961038961038963
+261,262,Survived,Economy,"Asplund, Master. Edvin Rojj Felix",male,3.0,31.3875,0.33695652173913043
+262,263,Didn't Survive,First Class,"Taussig, Mr. Emil",male,52.0,79.65,0.33695652173913043
+263,264,Didn't Survive,First Class,"Harrison, Mr. William",male,40.0,0.0,0.33695652173913043
+264,265,Didn't Survive,Economy,"Henry, Miss. Delia",female,,7.75,0.38961038961038963
+265,266,Didn't Survive,Business,"Reeves, Mr. David",male,36.0,10.5,0.33695652173913043
+266,267,Didn't Survive,Economy,"Panula, Mr. Ernesti Arvid",male,16.0,39.6875,0.33695652173913043
+267,268,Survived,Economy,"Persson, Mr. Ernst Ulrik",male,25.0,7.775,0.33695652173913043
+268,269,Survived,First Class,"Graham, Mrs. William Thompson (Edith Junkins)",female,58.0,153.4625,0.33695652173913043
+269,270,Survived,First Class,"Bissette, Miss. Amelia",female,35.0,135.6333,0.33695652173913043
+270,271,Didn't Survive,First Class,"Cairns, Mr. Alexander",male,,31.0,0.33695652173913043
+271,272,Survived,Economy,"Tornquist, Mr. William Henry",male,25.0,0.0,0.33695652173913043
+272,273,Survived,Business,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,41.0,19.5,0.33695652173913043
+273,274,Didn't Survive,First Class,"Natsch, Mr. Charles H",male,37.0,29.7,0.5535714285714286
+274,275,Survived,Economy,"Healy, Miss. Hanora ""Nora""",female,,7.75,0.38961038961038963
+275,276,Survived,First Class,"Andrews, Miss. Kornelia Theodosia",female,63.0,77.9583,0.33695652173913043
+276,277,Didn't Survive,Economy,"Lindblom, Miss. Augusta Charlotta",female,45.0,7.75,0.33695652173913043
+277,278,Didn't Survive,Business,"Parkes, Mr. Francis ""Frank""",male,,0.0,0.33695652173913043
+278,279,Didn't Survive,Economy,"Rice, Master. Eric",male,7.0,29.125,0.38961038961038963
+279,280,Survived,Economy,"Abbott, Mrs. Stanton (Rosa Hunt)",female,35.0,20.25,0.33695652173913043
+280,281,Didn't Survive,Economy,"Duane, Mr. Frank",male,65.0,7.75,0.38961038961038963
+281,282,Didn't Survive,Economy,"Olsson, Mr. Nils Johan Goransson",male,28.0,7.8542,0.33695652173913043
+282,283,Didn't Survive,Economy,"de Pelsmaeker, Mr. Alfons",male,16.0,9.5,0.33695652173913043
+283,284,Survived,Economy,"Dorking, Mr. Edward Arthur",male,19.0,8.05,0.33695652173913043
+284,285,Didn't Survive,First Class,"Smith, Mr. Richard William",male,,26.0,0.33695652173913043
+285,286,Didn't Survive,Economy,"Stankovic, Mr. Ivan",male,33.0,8.6625,0.5535714285714286
+286,287,Survived,Economy,"de Mulder, Mr. Theodore",male,30.0,9.5,0.33695652173913043
+287,288,Didn't Survive,Economy,"Naidenoff, Mr. Penko",male,22.0,7.8958,0.33695652173913043
+288,289,Survived,Business,"Hosono, Mr. Masabumi",male,42.0,13.0,0.33695652173913043
+289,290,Survived,Economy,"Connolly, Miss. Kate",female,22.0,7.75,0.38961038961038963
+290,291,Survived,First Class,"Barber, Miss. Ellen ""Nellie""",female,26.0,78.85,0.33695652173913043
+291,292,Survived,First Class,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19.0,91.0792,0.5535714285714286
+292,293,Didn't Survive,Business,"Levy, Mr. Rene Jacques",male,36.0,12.875,0.5535714285714286
+293,294,Didn't Survive,Economy,"Haas, Miss. Aloisia",female,24.0,8.85,0.33695652173913043
+294,295,Didn't Survive,Economy,"Mineff, Mr. Ivan",male,24.0,7.8958,0.33695652173913043
+295,296,Didn't Survive,First Class,"Lewy, Mr. Ervin G",male,,27.7208,0.5535714285714286
+296,297,Didn't Survive,Economy,"Hanna, Mr. Mansour",male,23.5,7.2292,0.5535714285714286
+297,298,Didn't Survive,First Class,"Allison, Miss. Helen Loraine",female,2.0,151.55,0.33695652173913043
+298,299,Survived,First Class,"Saalfeld, Mr. Adolphe",male,,30.5,0.33695652173913043
+299,300,Survived,First Class,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50.0,247.5208,0.5535714285714286
+300,301,Survived,Economy,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,,7.75,0.38961038961038963
+301,302,Survived,Economy,"McCoy, Mr. Bernard",male,,23.25,0.38961038961038963
+302,303,Didn't Survive,Economy,"Johnson, Mr. William Cahoone Jr",male,19.0,0.0,0.33695652173913043
+303,304,Survived,Business,"Keane, Miss. Nora A",female,,12.35,0.38961038961038963
+304,305,Didn't Survive,Economy,"Williams, Mr. Howard Hugh ""Harry""",male,,8.05,0.33695652173913043
+305,306,Survived,First Class,"Allison, Master. Hudson Trevor",male,0.92,151.55,0.33695652173913043
+306,307,Survived,First Class,"Fleming, Miss. Margaret",female,,110.8833,0.5535714285714286
+307,308,Survived,First Class,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17.0,108.9,0.5535714285714286
+308,309,Didn't Survive,Business,"Abelson, Mr. Samuel",male,30.0,24.0,0.5535714285714286
+309,310,Survived,First Class,"Francatelli, Miss. Laura Mabel",female,30.0,56.9292,0.5535714285714286
+310,311,Survived,First Class,"Hays, Miss. Margaret Bechstein",female,24.0,83.1583,0.5535714285714286
+311,312,Survived,First Class,"Ryerson, Miss. Emily Borie",female,18.0,262.375,0.5535714285714286
+312,313,Didn't Survive,Business,"Lahtinen, Mrs. William (Anna Sylfven)",female,26.0,26.0,0.33695652173913043
+313,314,Didn't Survive,Economy,"Hendekovic, Mr. Ignjac",male,28.0,7.8958,0.33695652173913043
+314,315,Didn't Survive,Business,"Hart, Mr. Benjamin",male,43.0,26.25,0.33695652173913043
+315,316,Survived,Economy,"Nilsson, Miss. Helmina Josefina",female,26.0,7.8542,0.33695652173913043
+316,317,Survived,Business,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24.0,26.0,0.33695652173913043
+317,318,Didn't Survive,Business,"Moraweck, Dr. Ernest",male,54.0,14.0,0.33695652173913043
+318,319,Survived,First Class,"Wick, Miss. Mary Natalie",female,31.0,164.8667,0.33695652173913043
+319,320,Survived,First Class,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40.0,134.5,0.5535714285714286
+320,321,Didn't Survive,Economy,"Dennis, Mr. Samuel",male,22.0,7.25,0.33695652173913043
+321,322,Didn't Survive,Economy,"Danoff, Mr. Yoto",male,27.0,7.8958,0.33695652173913043
+322,323,Survived,Business,"Slayter, Miss. Hilda Mary",female,30.0,12.35,0.38961038961038963
+323,324,Survived,Business,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22.0,29.0,0.33695652173913043
+324,325,Didn't Survive,Economy,"Sage, Mr. George John Jr",male,,69.55,0.33695652173913043
+325,326,Survived,First Class,"Young, Miss. Marie Grice",female,36.0,135.6333,0.5535714285714286
+326,327,Didn't Survive,Economy,"Nysveen, Mr. Johan Hansen",male,61.0,6.2375,0.33695652173913043
+327,328,Survived,Business,"Ball, Mrs. (Ada E Hall)",female,36.0,13.0,0.33695652173913043
+328,329,Survived,Economy,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,31.0,20.525,0.33695652173913043
+329,330,Survived,First Class,"Hippach, Miss. Jean Gertrude",female,16.0,57.9792,0.5535714285714286
+330,331,Survived,Economy,"McCoy, Miss. Agnes",female,,23.25,0.38961038961038963
+331,332,Didn't Survive,First Class,"Partner, Mr. Austen",male,45.5,28.5,0.33695652173913043
+332,333,Didn't Survive,First Class,"Graham, Mr. George Edward",male,38.0,153.4625,0.33695652173913043
+333,334,Didn't Survive,Economy,"Vander Planke, Mr. Leo Edmondus",male,16.0,18.0,0.33695652173913043
+334,335,Survived,First Class,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,,133.65,0.33695652173913043
+335,336,Didn't Survive,Economy,"Denkoff, Mr. Mitto",male,,7.8958,0.33695652173913043
+336,337,Didn't Survive,First Class,"Pears, Mr. Thomas Clinton",male,29.0,66.6,0.33695652173913043
+337,338,Survived,First Class,"Burns, Miss. Elizabeth Margaret",female,41.0,134.5,0.5535714285714286
+338,339,Survived,Economy,"Dahl, Mr. Karl Edwart",male,45.0,8.05,0.33695652173913043
+339,340,Didn't Survive,First Class,"Blackwell, Mr. Stephen Weart",male,45.0,35.5,0.33695652173913043
+340,341,Survived,Business,"Navratil, Master. Edmond Roger",male,2.0,26.0,0.33695652173913043
+341,342,Survived,First Class,"Fortune, Miss. Alice Elizabeth",female,24.0,263.0,0.33695652173913043
+342,343,Didn't Survive,Business,"Collander, Mr. Erik Gustaf",male,28.0,13.0,0.33695652173913043
+343,344,Didn't Survive,Business,"Sedgwick, Mr. Charles Frederick Waddington",male,25.0,13.0,0.33695652173913043
+344,345,Didn't Survive,Business,"Fox, Mr. Stanley Hubert",male,36.0,13.0,0.33695652173913043
+345,346,Survived,Business,"Brown, Miss. Amelia ""Mildred""",female,24.0,13.0,0.33695652173913043
+346,347,Survived,Business,"Smith, Miss. Marion Elsie",female,40.0,13.0,0.33695652173913043
+347,348,Survived,Economy,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,,16.1,0.33695652173913043
+348,349,Survived,Economy,"Coutts, Master. William Loch ""William""",male,3.0,15.9,0.33695652173913043
+349,350,Didn't Survive,Economy,"Dimic, Mr. Jovan",male,42.0,8.6625,0.33695652173913043
+350,351,Didn't Survive,Economy,"Odahl, Mr. Nils Martin",male,23.0,9.225,0.33695652173913043
+351,352,Didn't Survive,First Class,"Williams-Lambert, Mr. Fletcher Fellows",male,,35.0,0.33695652173913043
+352,353,Didn't Survive,Economy,"Elias, Mr. Tannous",male,15.0,7.2292,0.5535714285714286
+353,354,Didn't Survive,Economy,"Arnold-Franchi, Mr. Josef",male,25.0,17.8,0.33695652173913043
+354,355,Didn't Survive,Economy,"Yousif, Mr. Wazli",male,,7.225,0.5535714285714286
+355,356,Didn't Survive,Economy,"Vanden Steen, Mr. Leo Peter",male,28.0,9.5,0.33695652173913043
+356,357,Survived,First Class,"Bowerman, Miss. Elsie Edith",female,22.0,55.0,0.33695652173913043
+357,358,Didn't Survive,Business,"Funk, Miss. Annie Clemmer",female,38.0,13.0,0.33695652173913043
+358,359,Survived,Economy,"McGovern, Miss. Mary",female,,7.8792,0.38961038961038963
+359,360,Survived,Economy,"Mockler, Miss. Helen Mary ""Ellie""",female,,7.8792,0.38961038961038963
+360,361,Didn't Survive,Economy,"Skoog, Mr. Wilhelm",male,40.0,27.9,0.33695652173913043
+361,362,Didn't Survive,Business,"del Carlo, Mr. Sebastiano",male,29.0,27.7208,0.5535714285714286
+362,363,Didn't Survive,Economy,"Barbara, Mrs. (Catherine David)",female,45.0,14.4542,0.5535714285714286
+363,364,Didn't Survive,Economy,"Asim, Mr. Adola",male,35.0,7.05,0.33695652173913043
+364,365,Didn't Survive,Economy,"O'Brien, Mr. Thomas",male,,15.5,0.38961038961038963
+365,366,Didn't Survive,Economy,"Adahl, Mr. Mauritz Nils Martin",male,30.0,7.25,0.33695652173913043
+366,367,Survived,First Class,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60.0,75.25,0.5535714285714286
+367,368,Survived,Economy,"Moussa, Mrs. (Mantoura Boulos)",female,,7.2292,0.5535714285714286
+368,369,Survived,Economy,"Jermyn, Miss. Annie",female,,7.75,0.38961038961038963
+369,370,Survived,First Class,"Aubart, Mme. Leontine Pauline",female,24.0,69.3,0.5535714285714286
+370,371,Survived,First Class,"Harder, Mr. George Achilles",male,25.0,55.4417,0.5535714285714286
+371,372,Didn't Survive,Economy,"Wiklund, Mr. Jakob Alfred",male,18.0,6.4958,0.33695652173913043
+372,373,Didn't Survive,Economy,"Beavan, Mr. William Thomas",male,19.0,8.05,0.33695652173913043
+373,374,Didn't Survive,First Class,"Ringhini, Mr. Sante",male,22.0,135.6333,0.5535714285714286
+374,375,Didn't Survive,Economy,"Palsson, Miss. Stina Viola",female,3.0,21.075,0.33695652173913043
+375,376,Survived,First Class,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,,82.1708,0.5535714285714286
+376,377,Survived,Economy,"Landergren, Miss. Aurora Adelia",female,22.0,7.25,0.33695652173913043
+377,378,Didn't Survive,First Class,"Widener, Mr. Harry Elkins",male,27.0,211.5,0.5535714285714286
+378,379,Didn't Survive,Economy,"Betros, Mr. Tannous",male,20.0,4.0125,0.5535714285714286
+379,380,Didn't Survive,Economy,"Gustafsson, Mr. Karl Gideon",male,19.0,7.775,0.33695652173913043
+380,381,Survived,First Class,"Bidois, Miss. Rosalie",female,42.0,227.525,0.5535714285714286
+381,382,Survived,Economy,"Nakid, Miss. Maria (""Mary"")",female,1.0,15.7417,0.5535714285714286
+382,383,Didn't Survive,Economy,"Tikkanen, Mr. Juho",male,32.0,7.925,0.33695652173913043
+383,384,Survived,First Class,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35.0,52.0,0.33695652173913043
+384,385,Didn't Survive,Economy,"Plotcharsky, Mr. Vasil",male,,7.8958,0.33695652173913043
+385,386,Didn't Survive,Business,"Davies, Mr. Charles Henry",male,18.0,73.5,0.33695652173913043
+386,387,Didn't Survive,Economy,"Goodwin, Master. Sidney Leonard",male,1.0,46.9,0.33695652173913043
+387,388,Survived,Business,"Buss, Miss. Kate",female,36.0,13.0,0.33695652173913043
+388,389,Didn't Survive,Economy,"Sadlier, Mr. Matthew",male,,7.7292,0.38961038961038963
+389,390,Survived,Business,"Lehmann, Miss. Bertha",female,17.0,12.0,0.5535714285714286
+390,391,Survived,First Class,"Carter, Mr. William Ernest",male,36.0,120.0,0.33695652173913043
+391,392,Survived,Economy,"Jansson, Mr. Carl Olof",male,21.0,7.7958,0.33695652173913043
+392,393,Didn't Survive,Economy,"Gustafsson, Mr. Johan Birger",male,28.0,7.925,0.33695652173913043
+393,394,Survived,First Class,"Newell, Miss. Marjorie",female,23.0,113.275,0.5535714285714286
+394,395,Survived,Economy,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24.0,16.7,0.33695652173913043
+395,396,Didn't Survive,Economy,"Johansson, Mr. Erik",male,22.0,7.7958,0.33695652173913043
+396,397,Didn't Survive,Economy,"Olsson, Miss. Elina",female,31.0,7.8542,0.33695652173913043
+397,398,Didn't Survive,Business,"McKane, Mr. Peter David",male,46.0,26.0,0.33695652173913043
+398,399,Didn't Survive,Business,"Pain, Dr. Alfred",male,23.0,10.5,0.33695652173913043
+399,400,Survived,Business,"Trout, Mrs. William H (Jessie L)",female,28.0,12.65,0.33695652173913043
+400,401,Survived,Economy,"Niskanen, Mr. Juha",male,39.0,7.925,0.33695652173913043
+401,402,Didn't Survive,Economy,"Adams, Mr. John",male,26.0,8.05,0.33695652173913043
+402,403,Didn't Survive,Economy,"Jussila, Miss. Mari Aina",female,21.0,9.825,0.33695652173913043
+403,404,Didn't Survive,Economy,"Hakkarainen, Mr. Pekka Pietari",male,28.0,15.85,0.33695652173913043
+404,405,Didn't Survive,Economy,"Oreskovic, Miss. Marija",female,20.0,8.6625,0.33695652173913043
+405,406,Didn't Survive,Business,"Gale, Mr. Shadrach",male,34.0,21.0,0.33695652173913043
+406,407,Didn't Survive,Economy,"Widegren, Mr. Carl/Charles Peter",male,51.0,7.75,0.33695652173913043
+407,408,Survived,Business,"Richards, Master. William Rowe",male,3.0,18.75,0.33695652173913043
+408,409,Didn't Survive,Economy,"Birkeland, Mr. Hans Martin Monsen",male,21.0,7.775,0.33695652173913043
+409,410,Didn't Survive,Economy,"Lefebre, Miss. Ida",female,,25.4667,0.33695652173913043
+410,411,Didn't Survive,Economy,"Sdycoff, Mr. Todor",male,,7.8958,0.33695652173913043
+411,412,Didn't Survive,Economy,"Hart, Mr. Henry",male,,6.8583,0.38961038961038963
+412,413,Survived,First Class,"Minahan, Miss. Daisy E",female,33.0,90.0,0.38961038961038963
+413,414,Didn't Survive,Business,"Cunningham, Mr. Alfred Fleming",male,,0.0,0.33695652173913043
+414,415,Survived,Economy,"Sundman, Mr. Johan Julian",male,44.0,7.925,0.33695652173913043
+415,416,Didn't Survive,Economy,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,,8.05,0.33695652173913043
+416,417,Survived,Business,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34.0,32.5,0.33695652173913043
+417,418,Survived,Business,"Silven, Miss. Lyyli Karoliina",female,18.0,13.0,0.33695652173913043
+418,419,Didn't Survive,Business,"Matthews, Mr. William John",male,30.0,13.0,0.33695652173913043
+419,420,Didn't Survive,Economy,"Van Impe, Miss. Catharina",female,10.0,24.15,0.33695652173913043
+420,421,Didn't Survive,Economy,"Gheorgheff, Mr. Stanio",male,,7.8958,0.5535714285714286
+421,422,Didn't Survive,Economy,"Charters, Mr. David",male,21.0,7.7333,0.38961038961038963
+422,423,Didn't Survive,Economy,"Zimmerman, Mr. Leo",male,29.0,7.875,0.33695652173913043
+423,424,Didn't Survive,Economy,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,28.0,14.4,0.33695652173913043
+424,425,Didn't Survive,Economy,"Rosblom, Mr. Viktor Richard",male,18.0,20.2125,0.33695652173913043
+425,426,Didn't Survive,Economy,"Wiseman, Mr. Phillippe",male,,7.25,0.33695652173913043
+426,427,Survived,Business,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28.0,26.0,0.33695652173913043
+427,428,Survived,Business,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19.0,26.0,0.33695652173913043
+428,429,Didn't Survive,Economy,"Flynn, Mr. James",male,,7.75,0.38961038961038963
+429,430,Survived,Economy,"Pickard, Mr. Berk (Berk Trembisky)",male,32.0,8.05,0.33695652173913043
+430,431,Survived,First Class,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28.0,26.55,0.33695652173913043
+431,432,Survived,Economy,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,,16.1,0.33695652173913043
+432,433,Survived,Business,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42.0,26.0,0.33695652173913043
+433,434,Didn't Survive,Economy,"Kallio, Mr. Nikolai Erland",male,17.0,7.125,0.33695652173913043
+434,435,Didn't Survive,First Class,"Silvey, Mr. William Baird",male,50.0,55.9,0.33695652173913043
+435,436,Survived,First Class,"Carter, Miss. Lucile Polk",female,14.0,120.0,0.33695652173913043
+436,437,Didn't Survive,Economy,"Ford, Miss. Doolina Margaret ""Daisy""",female,21.0,34.375,0.33695652173913043
+437,438,Survived,Business,"Richards, Mrs. Sidney (Emily Hocking)",female,24.0,18.75,0.33695652173913043
+438,439,Didn't Survive,First Class,"Fortune, Mr. Mark",male,64.0,263.0,0.33695652173913043
+439,440,Didn't Survive,Business,"Kvillner, Mr. Johan Henrik Johannesson",male,31.0,10.5,0.33695652173913043
+440,441,Survived,Business,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45.0,26.25,0.33695652173913043
+441,442,Didn't Survive,Economy,"Hampe, Mr. Leon",male,20.0,9.5,0.33695652173913043
+442,443,Didn't Survive,Economy,"Petterson, Mr. Johan Emil",male,25.0,7.775,0.33695652173913043
+443,444,Survived,Business,"Reynaldo, Ms. Encarnacion",female,28.0,13.0,0.33695652173913043
+444,445,Survived,Economy,"Johannesen-Bratthammer, Mr. Bernt",male,,8.1125,0.33695652173913043
+445,446,Survived,First Class,"Dodge, Master. Washington",male,4.0,81.8583,0.33695652173913043
+446,447,Survived,Business,"Mellinger, Miss. Madeleine Violet",female,13.0,19.5,0.33695652173913043
+447,448,Survived,First Class,"Seward, Mr. Frederic Kimber",male,34.0,26.55,0.33695652173913043
+448,449,Survived,Economy,"Baclini, Miss. Marie Catherine",female,5.0,19.2583,0.5535714285714286
+449,450,Survived,First Class,"Peuchen, Major. Arthur Godfrey",male,52.0,30.5,0.33695652173913043
+450,451,Didn't Survive,Business,"West, Mr. Edwy Arthur",male,36.0,27.75,0.33695652173913043
+451,452,Didn't Survive,Economy,"Hagland, Mr. Ingvald Olai Olsen",male,,19.9667,0.33695652173913043
+452,453,Didn't Survive,First Class,"Foreman, Mr. Benjamin Laventall",male,30.0,27.75,0.5535714285714286
+453,454,Survived,First Class,"Goldenberg, Mr. Samuel L",male,49.0,89.1042,0.5535714285714286
+454,455,Didn't Survive,Economy,"Peduzzi, Mr. Joseph",male,,8.05,0.33695652173913043
+455,456,Survived,Economy,"Jalsevac, Mr. Ivan",male,29.0,7.8958,0.5535714285714286
+456,457,Didn't Survive,First Class,"Millet, Mr. Francis Davis",male,65.0,26.55,0.33695652173913043
+457,458,Survived,First Class,"Kenyon, Mrs. Frederick R (Marion)",female,,51.8625,0.33695652173913043
+458,459,Survived,Business,"Toomey, Miss. Ellen",female,50.0,10.5,0.33695652173913043
+459,460,Didn't Survive,Economy,"O'Connor, Mr. Maurice",male,,7.75,0.38961038961038963
+460,461,Survived,First Class,"Anderson, Mr. Harry",male,48.0,26.55,0.33695652173913043
+461,462,Didn't Survive,Economy,"Morley, Mr. William",male,34.0,8.05,0.33695652173913043
+462,463,Didn't Survive,First Class,"Gee, Mr. Arthur H",male,47.0,38.5,0.33695652173913043
+463,464,Didn't Survive,Business,"Milling, Mr. Jacob Christian",male,48.0,13.0,0.33695652173913043
+464,465,Didn't Survive,Economy,"Maisner, Mr. Simon",male,,8.05,0.33695652173913043
+465,466,Didn't Survive,Economy,"Goncalves, Mr. Manuel Estanslas",male,38.0,7.05,0.33695652173913043
+466,467,Didn't Survive,Business,"Campbell, Mr. William",male,,0.0,0.33695652173913043
+467,468,Didn't Survive,First Class,"Smart, Mr. John Montgomery",male,56.0,26.55,0.33695652173913043
+468,469,Didn't Survive,Economy,"Scanlan, Mr. James",male,,7.725,0.38961038961038963
+469,470,Survived,Economy,"Baclini, Miss. Helene Barbara",female,0.75,19.2583,0.5535714285714286
+470,471,Didn't Survive,Economy,"Keefe, Mr. Arthur",male,,7.25,0.33695652173913043
+471,472,Didn't Survive,Economy,"Cacic, Mr. Luka",male,38.0,8.6625,0.33695652173913043
+472,473,Survived,Business,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33.0,27.75,0.33695652173913043
+473,474,Survived,Business,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23.0,13.7917,0.5535714285714286
+474,475,Didn't Survive,Economy,"Strandberg, Miss. Ida Sofia",female,22.0,9.8375,0.33695652173913043
+475,476,Didn't Survive,First Class,"Clifford, Mr. George Quincy",male,,52.0,0.33695652173913043
+476,477,Didn't Survive,Business,"Renouf, Mr. Peter Henry",male,34.0,21.0,0.33695652173913043
+477,478,Didn't Survive,Economy,"Braund, Mr. Lewis Richard",male,29.0,7.0458,0.33695652173913043
+478,479,Didn't Survive,Economy,"Karlsson, Mr. Nils August",male,22.0,7.5208,0.33695652173913043
+479,480,Survived,Economy,"Hirvonen, Miss. Hildur E",female,2.0,12.2875,0.33695652173913043
+480,481,Didn't Survive,Economy,"Goodwin, Master. Harold Victor",male,9.0,46.9,0.33695652173913043
+481,482,Didn't Survive,Business,"Frost, Mr. Anthony Wood ""Archie""",male,,0.0,0.33695652173913043
+482,483,Didn't Survive,Economy,"Rouse, Mr. Richard Henry",male,50.0,8.05,0.33695652173913043
+483,484,Survived,Economy,"Turkula, Mrs. (Hedwig)",female,63.0,9.5875,0.33695652173913043
+484,485,Survived,First Class,"Bishop, Mr. Dickinson H",male,25.0,91.0792,0.5535714285714286
+485,486,Didn't Survive,Economy,"Lefebre, Miss. Jeannie",female,,25.4667,0.33695652173913043
+486,487,Survived,First Class,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35.0,90.0,0.33695652173913043
+487,488,Didn't Survive,First Class,"Kent, Mr. Edward Austin",male,58.0,29.7,0.5535714285714286
+488,489,Didn't Survive,Economy,"Somerton, Mr. Francis William",male,30.0,8.05,0.33695652173913043
+489,490,Survived,Economy,"Coutts, Master. Eden Leslie ""Neville""",male,9.0,15.9,0.33695652173913043
+490,491,Didn't Survive,Economy,"Hagland, Mr. Konrad Mathias Reiersen",male,,19.9667,0.33695652173913043
+491,492,Didn't Survive,Economy,"Windelov, Mr. Einar",male,21.0,7.25,0.33695652173913043
+492,493,Didn't Survive,First Class,"Molson, Mr. Harry Markland",male,55.0,30.5,0.33695652173913043
+493,494,Didn't Survive,First Class,"Artagaveytia, Mr. Ramon",male,71.0,49.5042,0.5535714285714286
+494,495,Didn't Survive,Economy,"Stanley, Mr. Edward Roland",male,21.0,8.05,0.33695652173913043
+495,496,Didn't Survive,Economy,"Yousseff, Mr. Gerious",male,,14.4583,0.5535714285714286
+496,497,Survived,First Class,"Eustis, Miss. Elizabeth Mussey",female,54.0,78.2667,0.5535714285714286
+497,498,Didn't Survive,Economy,"Shellard, Mr. Frederick William",male,,15.1,0.33695652173913043
+498,499,Didn't Survive,First Class,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,25.0,151.55,0.33695652173913043
+499,500,Didn't Survive,Economy,"Svensson, Mr. Olof",male,24.0,7.7958,0.33695652173913043
+500,501,Didn't Survive,Economy,"Calic, Mr. Petar",male,17.0,8.6625,0.33695652173913043
+501,502,Didn't Survive,Economy,"Canavan, Miss. Mary",female,21.0,7.75,0.38961038961038963
+502,503,Didn't Survive,Economy,"O'Sullivan, Miss. Bridget Mary",female,,7.6292,0.38961038961038963
+503,504,Didn't Survive,Economy,"Laitinen, Miss. Kristina Sofia",female,37.0,9.5875,0.33695652173913043
+504,505,Survived,First Class,"Maioni, Miss. Roberta",female,16.0,86.5,0.33695652173913043
+505,506,Didn't Survive,First Class,"Penasco y Castellana, Mr. Victor de Satode",male,18.0,108.9,0.5535714285714286
+506,507,Survived,Business,"Quick, Mrs. Frederick Charles (Jane Richards)",female,33.0,26.0,0.33695652173913043
+507,508,Survived,First Class,"Bradley, Mr. George (""George Arthur Brayton"")",male,,26.55,0.33695652173913043
+508,509,Didn't Survive,Economy,"Olsen, Mr. Henry Margido",male,28.0,22.525,0.33695652173913043
+509,510,Survived,Economy,"Lang, Mr. Fang",male,26.0,56.4958,0.33695652173913043
+510,511,Survived,Economy,"Daly, Mr. Eugene Patrick",male,29.0,7.75,0.38961038961038963
+511,512,Didn't Survive,Economy,"Webber, Mr. James",male,,8.05,0.33695652173913043
+512,513,Survived,First Class,"McGough, Mr. James Robert",male,36.0,26.2875,0.33695652173913043
+513,514,Survived,First Class,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54.0,59.4,0.5535714285714286
+514,515,Didn't Survive,Economy,"Coleff, Mr. Satio",male,24.0,7.4958,0.33695652173913043
+515,516,Didn't Survive,First Class,"Walker, Mr. William Anderson",male,47.0,34.0208,0.33695652173913043
+516,517,Survived,Business,"Lemore, Mrs. (Amelia Milley)",female,34.0,10.5,0.33695652173913043
+517,518,Didn't Survive,Economy,"Ryan, Mr. Patrick",male,,24.15,0.38961038961038963
+518,519,Survived,Business,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36.0,26.0,0.33695652173913043
+519,520,Didn't Survive,Economy,"Pavlovic, Mr. Stefo",male,32.0,7.8958,0.33695652173913043
+520,521,Survived,First Class,"Perreault, Miss. Anne",female,30.0,93.5,0.33695652173913043
+521,522,Didn't Survive,Economy,"Vovk, Mr. Janko",male,22.0,7.8958,0.33695652173913043
+522,523,Didn't Survive,Economy,"Lahoud, Mr. Sarkis",male,,7.225,0.5535714285714286
+523,524,Survived,First Class,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44.0,57.9792,0.5535714285714286
+524,525,Didn't Survive,Economy,"Kassem, Mr. Fared",male,,7.2292,0.5535714285714286
+525,526,Didn't Survive,Economy,"Farrell, Mr. James",male,40.5,7.75,0.38961038961038963
+526,527,Survived,Business,"Ridsdale, Miss. Lucy",female,50.0,10.5,0.33695652173913043
+527,528,Didn't Survive,First Class,"Farthing, Mr. John",male,,221.7792,0.33695652173913043
+528,529,Didn't Survive,Economy,"Salonen, Mr. Johan Werner",male,39.0,7.925,0.33695652173913043
+529,530,Didn't Survive,Business,"Hocking, Mr. Richard George",male,23.0,11.5,0.33695652173913043
+530,531,Survived,Business,"Quick, Miss. Phyllis May",female,2.0,26.0,0.33695652173913043
+531,532,Didn't Survive,Economy,"Toufik, Mr. Nakli",male,,7.2292,0.5535714285714286
+532,533,Didn't Survive,Economy,"Elias, Mr. Joseph Jr",male,17.0,7.2292,0.5535714285714286
+533,534,Survived,Economy,"Peter, Mrs. Catherine (Catherine Rizk)",female,,22.3583,0.5535714285714286
+534,535,Didn't Survive,Economy,"Cacic, Miss. Marija",female,30.0,8.6625,0.33695652173913043
+535,536,Survived,Business,"Hart, Miss. Eva Miriam",female,7.0,26.25,0.33695652173913043
+536,537,Didn't Survive,First Class,"Butt, Major. Archibald Willingham",male,45.0,26.55,0.33695652173913043
+537,538,Survived,First Class,"LeRoy, Miss. Bertha",female,30.0,106.425,0.5535714285714286
+538,539,Didn't Survive,Economy,"Risien, Mr. Samuel Beard",male,,14.5,0.33695652173913043
+539,540,Survived,First Class,"Frolicher, Miss. Hedwig Margaritha",female,22.0,49.5,0.5535714285714286
+540,541,Survived,First Class,"Crosby, Miss. Harriet R",female,36.0,71.0,0.33695652173913043
+541,542,Didn't Survive,Economy,"Andersson, Miss. Ingeborg Constanzia",female,9.0,31.275,0.33695652173913043
+542,543,Didn't Survive,Economy,"Andersson, Miss. Sigrid Elisabeth",female,11.0,31.275,0.33695652173913043
+543,544,Survived,Business,"Beane, Mr. Edward",male,32.0,26.0,0.33695652173913043
+544,545,Didn't Survive,First Class,"Douglas, Mr. Walter Donald",male,50.0,106.425,0.5535714285714286
+545,546,Didn't Survive,First Class,"Nicholson, Mr. Arthur Ernest",male,64.0,26.0,0.33695652173913043
+546,547,Survived,Business,"Beane, Mrs. Edward (Ethel Clarke)",female,19.0,26.0,0.33695652173913043
+547,548,Survived,Business,"Padro y Manent, Mr. Julian",male,,13.8625,0.5535714285714286
+548,549,Didn't Survive,Economy,"Goldsmith, Mr. Frank John",male,33.0,20.525,0.33695652173913043
+549,550,Survived,Business,"Davies, Master. John Morgan Jr",male,8.0,36.75,0.33695652173913043
+550,551,Survived,First Class,"Thayer, Mr. John Borland Jr",male,17.0,110.8833,0.5535714285714286
+551,552,Didn't Survive,Business,"Sharp, Mr. Percival James R",male,27.0,26.0,0.33695652173913043
+552,553,Didn't Survive,Economy,"O'Brien, Mr. Timothy",male,,7.8292,0.38961038961038963
+553,554,Survived,Economy,"Leeni, Mr. Fahim (""Philip Zenni"")",male,22.0,7.225,0.5535714285714286
+554,555,Survived,Economy,"Ohman, Miss. Velin",female,22.0,7.775,0.33695652173913043
+555,556,Didn't Survive,First Class,"Wright, Mr. George",male,62.0,26.55,0.33695652173913043
+556,557,Survived,First Class,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48.0,39.6,0.5535714285714286
+557,558,Didn't Survive,First Class,"Robbins, Mr. Victor",male,,227.525,0.5535714285714286
+558,559,Survived,First Class,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39.0,79.65,0.33695652173913043
+559,560,Survived,Economy,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,36.0,17.4,0.33695652173913043
+560,561,Didn't Survive,Economy,"Morrow, Mr. Thomas Rowan",male,,7.75,0.38961038961038963
+561,562,Didn't Survive,Economy,"Sivic, Mr. Husein",male,40.0,7.8958,0.33695652173913043
+562,563,Didn't Survive,Business,"Norman, Mr. Robert Douglas",male,28.0,13.5,0.33695652173913043
+563,564,Didn't Survive,Economy,"Simmons, Mr. John",male,,8.05,0.33695652173913043
+564,565,Didn't Survive,Economy,"Meanwell, Miss. (Marion Ogden)",female,,8.05,0.33695652173913043
+565,566,Didn't Survive,Economy,"Davies, Mr. Alfred J",male,24.0,24.15,0.33695652173913043
+566,567,Didn't Survive,Economy,"Stoytcheff, Mr. Ilia",male,19.0,7.8958,0.33695652173913043
+567,568,Didn't Survive,Economy,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,29.0,21.075,0.33695652173913043
+568,569,Didn't Survive,Economy,"Doharr, Mr. Tannous",male,,7.2292,0.5535714285714286
+569,570,Survived,Economy,"Jonsson, Mr. Carl",male,32.0,7.8542,0.33695652173913043
+570,571,Survived,Business,"Harris, Mr. George",male,62.0,10.5,0.33695652173913043
+571,572,Survived,First Class,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53.0,51.4792,0.33695652173913043
+572,573,Survived,First Class,"Flynn, Mr. John Irwin (""Irving"")",male,36.0,26.3875,0.33695652173913043
+573,574,Survived,Economy,"Kelly, Miss. Mary",female,,7.75,0.38961038961038963
+574,575,Didn't Survive,Economy,"Rush, Mr. Alfred George John",male,16.0,8.05,0.33695652173913043
+575,576,Didn't Survive,Economy,"Patchett, Mr. George",male,19.0,14.5,0.33695652173913043
+576,577,Survived,Business,"Garside, Miss. Ethel",female,34.0,13.0,0.33695652173913043
+577,578,Survived,First Class,"Silvey, Mrs. William Baird (Alice Munger)",female,39.0,55.9,0.33695652173913043
+578,579,Didn't Survive,Economy,"Caram, Mrs. Joseph (Maria Elias)",female,,14.4583,0.5535714285714286
+579,580,Survived,Economy,"Jussila, Mr. Eiriik",male,32.0,7.925,0.33695652173913043
+580,581,Survived,Business,"Christy, Miss. Julie Rachel",female,25.0,30.0,0.33695652173913043
+581,582,Survived,First Class,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39.0,110.8833,0.5535714285714286
+582,583,Didn't Survive,Business,"Downton, Mr. William James",male,54.0,26.0,0.33695652173913043
+583,584,Didn't Survive,First Class,"Ross, Mr. John Hugo",male,36.0,40.125,0.5535714285714286
+584,585,Didn't Survive,Economy,"Paulner, Mr. Uscher",male,,8.7125,0.5535714285714286
+585,586,Survived,First Class,"Taussig, Miss. Ruth",female,18.0,79.65,0.33695652173913043
+586,587,Didn't Survive,Business,"Jarvis, Mr. John Denzil",male,47.0,15.0,0.33695652173913043
+587,588,Survived,First Class,"Frolicher-Stehli, Mr. Maxmillian",male,60.0,79.2,0.5535714285714286
+588,589,Didn't Survive,Economy,"Gilinski, Mr. Eliezer",male,22.0,8.05,0.33695652173913043
+589,590,Didn't Survive,Economy,"Murdlin, Mr. Joseph",male,,8.05,0.33695652173913043
+590,591,Didn't Survive,Economy,"Rintamaki, Mr. Matti",male,35.0,7.125,0.33695652173913043
+591,592,Survived,First Class,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52.0,78.2667,0.5535714285714286
+592,593,Didn't Survive,Economy,"Elsbury, Mr. William James",male,47.0,7.25,0.33695652173913043
+593,594,Didn't Survive,Economy,"Bourke, Miss. Mary",female,,7.75,0.38961038961038963
+594,595,Didn't Survive,Business,"Chapman, Mr. John Henry",male,37.0,26.0,0.33695652173913043
+595,596,Didn't Survive,Economy,"Van Impe, Mr. Jean Baptiste",male,36.0,24.15,0.33695652173913043
+596,597,Survived,Business,"Leitch, Miss. Jessie Wills",female,,33.0,0.33695652173913043
+597,598,Didn't Survive,Economy,"Johnson, Mr. Alfred",male,49.0,0.0,0.33695652173913043
+598,599,Didn't Survive,Economy,"Boulos, Mr. Hanna",male,,7.225,0.5535714285714286
+599,600,Survived,First Class,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49.0,56.9292,0.5535714285714286
+600,601,Survived,Business,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,24.0,27.0,0.33695652173913043
+601,602,Didn't Survive,Economy,"Slabenoff, Mr. Petco",male,,7.8958,0.33695652173913043
+602,603,Didn't Survive,First Class,"Harrington, Mr. Charles H",male,,42.4,0.33695652173913043
+603,604,Didn't Survive,Economy,"Torber, Mr. Ernst William",male,44.0,8.05,0.33695652173913043
+604,605,Survived,First Class,"Homer, Mr. Harry (""Mr E Haven"")",male,35.0,26.55,0.5535714285714286
+605,606,Didn't Survive,Economy,"Lindell, Mr. Edvard Bengtsson",male,36.0,15.55,0.33695652173913043
+606,607,Didn't Survive,Economy,"Karaic, Mr. Milan",male,30.0,7.8958,0.33695652173913043
+607,608,Survived,First Class,"Daniel, Mr. Robert Williams",male,27.0,30.5,0.33695652173913043
+608,609,Survived,Business,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22.0,41.5792,0.5535714285714286
+609,610,Survived,First Class,"Shutes, Miss. Elizabeth W",female,40.0,153.4625,0.33695652173913043
+610,611,Didn't Survive,Economy,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,39.0,31.275,0.33695652173913043
+611,612,Didn't Survive,Economy,"Jardin, Mr. Jose Neto",male,,7.05,0.33695652173913043
+612,613,Survived,Economy,"Murphy, Miss. Margaret Jane",female,,15.5,0.38961038961038963
+613,614,Didn't Survive,Economy,"Horgan, Mr. John",male,,7.75,0.38961038961038963
+614,615,Didn't Survive,Economy,"Brocklebank, Mr. William Alfred",male,35.0,8.05,0.33695652173913043
+615,616,Survived,Business,"Herman, Miss. Alice",female,24.0,65.0,0.33695652173913043
+616,617,Didn't Survive,Economy,"Danbom, Mr. Ernst Gilbert",male,34.0,14.4,0.33695652173913043
+617,618,Didn't Survive,Economy,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,26.0,16.1,0.33695652173913043
+618,619,Survived,Business,"Becker, Miss. Marion Louise",female,4.0,39.0,0.33695652173913043
+619,620,Didn't Survive,Business,"Gavey, Mr. Lawrence",male,26.0,10.5,0.33695652173913043
+620,621,Didn't Survive,Economy,"Yasbeck, Mr. Antoni",male,27.0,14.4542,0.5535714285714286
+621,622,Survived,First Class,"Kimball, Mr. Edwin Nelson Jr",male,42.0,52.5542,0.33695652173913043
+622,623,Survived,Economy,"Nakid, Mr. Sahid",male,20.0,15.7417,0.5535714285714286
+623,624,Didn't Survive,Economy,"Hansen, Mr. Henry Damsgaard",male,21.0,7.8542,0.33695652173913043
+624,625,Didn't Survive,Economy,"Bowen, Mr. David John ""Dai""",male,21.0,16.1,0.33695652173913043
+625,626,Didn't Survive,First Class,"Sutton, Mr. Frederick",male,61.0,32.3208,0.33695652173913043
+626,627,Didn't Survive,Business,"Kirkland, Rev. Charles Leonard",male,57.0,12.35,0.38961038961038963
+627,628,Survived,First Class,"Longley, Miss. Gretchen Fiske",female,21.0,77.9583,0.33695652173913043
+628,629,Didn't Survive,Economy,"Bostandyeff, Mr. Guentcho",male,26.0,7.8958,0.33695652173913043
+629,630,Didn't Survive,Economy,"O'Connell, Mr. Patrick D",male,,7.7333,0.38961038961038963
+630,631,Survived,First Class,"Barkworth, Mr. Algernon Henry Wilson",male,80.0,30.0,0.33695652173913043
+631,632,Didn't Survive,Economy,"Lundahl, Mr. Johan Svensson",male,51.0,7.0542,0.33695652173913043
+632,633,Survived,First Class,"Stahelin-Maeglin, Dr. Max",male,32.0,30.5,0.5535714285714286
+633,634,Didn't Survive,First Class,"Parr, Mr. William Henry Marsh",male,,0.0,0.33695652173913043
+634,635,Didn't Survive,Economy,"Skoog, Miss. Mabel",female,9.0,27.9,0.33695652173913043
+635,636,Survived,Business,"Davis, Miss. Mary",female,28.0,13.0,0.33695652173913043
+636,637,Didn't Survive,Economy,"Leinonen, Mr. Antti Gustaf",male,32.0,7.925,0.33695652173913043
+637,638,Didn't Survive,Business,"Collyer, Mr. Harvey",male,31.0,26.25,0.33695652173913043
+638,639,Didn't Survive,Economy,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,41.0,39.6875,0.33695652173913043
+639,640,Didn't Survive,Economy,"Thorneycroft, Mr. Percival",male,,16.1,0.33695652173913043
+640,641,Didn't Survive,Economy,"Jensen, Mr. Hans Peder",male,20.0,7.8542,0.33695652173913043
+641,642,Survived,First Class,"Sagesser, Mlle. Emma",female,24.0,69.3,0.5535714285714286
+642,643,Didn't Survive,Economy,"Skoog, Miss. Margit Elizabeth",female,2.0,27.9,0.33695652173913043
+643,644,Survived,Economy,"Foo, Mr. Choong",male,,56.4958,0.33695652173913043
+644,645,Survived,Economy,"Baclini, Miss. Eugenie",female,0.75,19.2583,0.5535714285714286
+645,646,Survived,First Class,"Harper, Mr. Henry Sleeper",male,48.0,76.7292,0.5535714285714286
+646,647,Didn't Survive,Economy,"Cor, Mr. Liudevit",male,19.0,7.8958,0.33695652173913043
+647,648,Survived,First Class,"Simonius-Blumer, Col. Oberst Alfons",male,56.0,35.5,0.5535714285714286
+648,649,Didn't Survive,Economy,"Willey, Mr. Edward",male,,7.55,0.33695652173913043
+649,650,Survived,Economy,"Stanley, Miss. Amy Zillah Elsie",female,23.0,7.55,0.33695652173913043
+650,651,Didn't Survive,Economy,"Mitkoff, Mr. Mito",male,,7.8958,0.33695652173913043
+651,652,Survived,Business,"Doling, Miss. Elsie",female,18.0,23.0,0.33695652173913043
+652,653,Didn't Survive,Economy,"Kalvik, Mr. Johannes Halvorsen",male,21.0,8.4333,0.33695652173913043
+653,654,Survived,Economy,"O'Leary, Miss. Hanora ""Norah""",female,,7.8292,0.38961038961038963
+654,655,Didn't Survive,Economy,"Hegarty, Miss. Hanora ""Nora""",female,18.0,6.75,0.38961038961038963
+655,656,Didn't Survive,Business,"Hickman, Mr. Leonard Mark",male,24.0,73.5,0.33695652173913043
+656,657,Didn't Survive,Economy,"Radeff, Mr. Alexander",male,,7.8958,0.33695652173913043
+657,658,Didn't Survive,Economy,"Bourke, Mrs. John (Catherine)",female,32.0,15.5,0.38961038961038963
+658,659,Didn't Survive,Business,"Eitemiller, Mr. George Floyd",male,23.0,13.0,0.33695652173913043
+659,660,Didn't Survive,First Class,"Newell, Mr. Arthur Webster",male,58.0,113.275,0.5535714285714286
+660,661,Survived,First Class,"Frauenthal, Dr. Henry William",male,50.0,133.65,0.33695652173913043
+661,662,Didn't Survive,Economy,"Badt, Mr. Mohamed",male,40.0,7.225,0.5535714285714286
+662,663,Didn't Survive,First Class,"Colley, Mr. Edward Pomeroy",male,47.0,25.5875,0.33695652173913043
+663,664,Didn't Survive,Economy,"Coleff, Mr. Peju",male,36.0,7.4958,0.33695652173913043
+664,665,Survived,Economy,"Lindqvist, Mr. Eino William",male,20.0,7.925,0.33695652173913043
+665,666,Didn't Survive,Business,"Hickman, Mr. Lewis",male,32.0,73.5,0.33695652173913043
+666,667,Didn't Survive,Business,"Butler, Mr. Reginald Fenton",male,25.0,13.0,0.33695652173913043
+667,668,Didn't Survive,Economy,"Rommetvedt, Mr. Knud Paust",male,,7.775,0.33695652173913043
+668,669,Didn't Survive,Economy,"Cook, Mr. Jacob",male,43.0,8.05,0.33695652173913043
+669,670,Survived,First Class,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,,52.0,0.33695652173913043
+670,671,Survived,Business,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40.0,39.0,0.33695652173913043
+671,672,Didn't Survive,First Class,"Davidson, Mr. Thornton",male,31.0,52.0,0.33695652173913043
+672,673,Didn't Survive,Business,"Mitchell, Mr. Henry Michael",male,70.0,10.5,0.33695652173913043
+673,674,Survived,Business,"Wilhelms, Mr. Charles",male,31.0,13.0,0.33695652173913043
+674,675,Didn't Survive,Business,"Watson, Mr. Ennis Hastings",male,,0.0,0.33695652173913043
+675,676,Didn't Survive,Economy,"Edvardsson, Mr. Gustaf Hjalmar",male,18.0,7.775,0.33695652173913043
+676,677,Didn't Survive,Economy,"Sawyer, Mr. Frederick Charles",male,24.5,8.05,0.33695652173913043
+677,678,Survived,Economy,"Turja, Miss. Anna Sofia",female,18.0,9.8417,0.33695652173913043
+678,679,Didn't Survive,Economy,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,43.0,46.9,0.33695652173913043
+679,680,Survived,First Class,"Cardeza, Mr. Thomas Drake Martinez",male,36.0,512.3292,0.5535714285714286
+680,681,Didn't Survive,Economy,"Peters, Miss. Katie",female,,8.1375,0.38961038961038963
+681,682,Survived,First Class,"Hassab, Mr. Hammad",male,27.0,76.7292,0.5535714285714286
+682,683,Didn't Survive,Economy,"Olsvigen, Mr. Thor Anderson",male,20.0,9.225,0.33695652173913043
+683,684,Didn't Survive,Economy,"Goodwin, Mr. Charles Edward",male,14.0,46.9,0.33695652173913043
+684,685,Didn't Survive,Business,"Brown, Mr. Thomas William Solomon",male,60.0,39.0,0.33695652173913043
+685,686,Didn't Survive,Business,"Laroche, Mr. Joseph Philippe Lemercier",male,25.0,41.5792,0.5535714285714286
+686,687,Didn't Survive,Economy,"Panula, Mr. Jaako Arnold",male,14.0,39.6875,0.33695652173913043
+687,688,Didn't Survive,Economy,"Dakic, Mr. Branko",male,19.0,10.1708,0.33695652173913043
+688,689,Didn't Survive,Economy,"Fischer, Mr. Eberhard Thelander",male,18.0,7.7958,0.33695652173913043
+689,690,Survived,First Class,"Madill, Miss. Georgette Alexandra",female,15.0,211.3375,0.33695652173913043
+690,691,Survived,First Class,"Dick, Mr. Albert Adrian",male,31.0,57.0,0.33695652173913043
+691,692,Survived,Economy,"Karun, Miss. Manca",female,4.0,13.4167,0.5535714285714286
+692,693,Survived,Economy,"Lam, Mr. Ali",male,,56.4958,0.33695652173913043
+693,694,Didn't Survive,Economy,"Saad, Mr. Khalil",male,25.0,7.225,0.5535714285714286
+694,695,Didn't Survive,First Class,"Weir, Col. John",male,60.0,26.55,0.33695652173913043
+695,696,Didn't Survive,Business,"Chapman, Mr. Charles Henry",male,52.0,13.5,0.33695652173913043
+696,697,Didn't Survive,Economy,"Kelly, Mr. James",male,44.0,8.05,0.33695652173913043
+697,698,Survived,Economy,"Mullens, Miss. Katherine ""Katie""",female,,7.7333,0.38961038961038963
+698,699,Didn't Survive,First Class,"Thayer, Mr. John Borland",male,49.0,110.8833,0.5535714285714286
+699,700,Didn't Survive,Economy,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,42.0,7.65,0.33695652173913043
+700,701,Survived,First Class,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18.0,227.525,0.5535714285714286
+701,702,Survived,First Class,"Silverthorne, Mr. Spencer Victor",male,35.0,26.2875,0.33695652173913043
+702,703,Didn't Survive,Economy,"Barbara, Miss. Saiide",female,18.0,14.4542,0.5535714285714286
+703,704,Didn't Survive,Economy,"Gallagher, Mr. Martin",male,25.0,7.7417,0.38961038961038963
+704,705,Didn't Survive,Economy,"Hansen, Mr. Henrik Juul",male,26.0,7.8542,0.33695652173913043
+705,706,Didn't Survive,Business,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,39.0,26.0,0.33695652173913043
+706,707,Survived,Business,"Kelly, Mrs. Florence ""Fannie""",female,45.0,13.5,0.33695652173913043
+707,708,Survived,First Class,"Calderhead, Mr. Edward Pennington",male,42.0,26.2875,0.33695652173913043
+708,709,Survived,First Class,"Cleaver, Miss. Alice",female,22.0,151.55,0.33695652173913043
+709,710,Survived,Economy,"Moubarek, Master. Halim Gonios (""William George"")",male,,15.2458,0.5535714285714286
+710,711,Survived,First Class,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24.0,49.5042,0.5535714285714286
+711,712,Didn't Survive,First Class,"Klaber, Mr. Herman",male,,26.55,0.33695652173913043
+712,713,Survived,First Class,"Taylor, Mr. Elmer Zebley",male,48.0,52.0,0.33695652173913043
+713,714,Didn't Survive,Economy,"Larsson, Mr. August Viktor",male,29.0,9.4833,0.33695652173913043
+714,715,Didn't Survive,Business,"Greenberg, Mr. Samuel",male,52.0,13.0,0.33695652173913043
+715,716,Didn't Survive,Economy,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19.0,7.65,0.33695652173913043
+716,717,Survived,First Class,"Endres, Miss. Caroline Louise",female,38.0,227.525,0.5535714285714286
+717,718,Survived,Business,"Troutt, Miss. Edwina Celia ""Winnie""",female,27.0,10.5,0.33695652173913043
+718,719,Didn't Survive,Economy,"McEvoy, Mr. Michael",male,,15.5,0.38961038961038963
+719,720,Didn't Survive,Economy,"Johnson, Mr. Malkolm Joackim",male,33.0,7.775,0.33695652173913043
+720,721,Survived,Business,"Harper, Miss. Annie Jessie ""Nina""",female,6.0,33.0,0.33695652173913043
+721,722,Didn't Survive,Economy,"Jensen, Mr. Svend Lauritz",male,17.0,7.0542,0.33695652173913043
+722,723,Didn't Survive,Business,"Gillespie, Mr. William Henry",male,34.0,13.0,0.33695652173913043
+723,724,Didn't Survive,Business,"Hodges, Mr. Henry Price",male,50.0,13.0,0.33695652173913043
+724,725,Survived,First Class,"Chambers, Mr. Norman Campbell",male,27.0,53.1,0.33695652173913043
+725,726,Didn't Survive,Economy,"Oreskovic, Mr. Luka",male,20.0,8.6625,0.33695652173913043
+726,727,Survived,Business,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30.0,21.0,0.33695652173913043
+727,728,Survived,Economy,"Mannion, Miss. Margareth",female,,7.7375,0.38961038961038963
+728,729,Didn't Survive,Business,"Bryhl, Mr. Kurt Arnold Gottfrid",male,25.0,26.0,0.33695652173913043
+729,730,Didn't Survive,Economy,"Ilmakangas, Miss. Pieta Sofia",female,25.0,7.925,0.33695652173913043
+730,731,Survived,First Class,"Allen, Miss. Elisabeth Walton",female,29.0,211.3375,0.33695652173913043
+731,732,Didn't Survive,Economy,"Hassan, Mr. Houssein G N",male,11.0,18.7875,0.5535714285714286
+732,733,Didn't Survive,Business,"Knight, Mr. Robert J",male,,0.0,0.33695652173913043
+733,734,Didn't Survive,Business,"Berriman, Mr. William John",male,23.0,13.0,0.33695652173913043
+734,735,Didn't Survive,Business,"Troupiansky, Mr. Moses Aaron",male,23.0,13.0,0.33695652173913043
+735,736,Didn't Survive,Economy,"Williams, Mr. Leslie",male,28.5,16.1,0.33695652173913043
+736,737,Didn't Survive,Economy,"Ford, Mrs. Edward (Margaret Ann Watson)",female,48.0,34.375,0.33695652173913043
+737,738,Survived,First Class,"Lesurer, Mr. Gustave J",male,35.0,512.3292,0.5535714285714286
+738,739,Didn't Survive,Economy,"Ivanoff, Mr. Kanio",male,,7.8958,0.33695652173913043
+739,740,Didn't Survive,Economy,"Nankoff, Mr. Minko",male,,7.8958,0.33695652173913043
+740,741,Survived,First Class,"Hawksford, Mr. Walter James",male,,30.0,0.33695652173913043
+741,742,Didn't Survive,First Class,"Cavendish, Mr. Tyrell William",male,36.0,78.85,0.33695652173913043
+742,743,Survived,First Class,"Ryerson, Miss. Susan Parker ""Suzette""",female,21.0,262.375,0.5535714285714286
+743,744,Didn't Survive,Economy,"McNamee, Mr. Neal",male,24.0,16.1,0.33695652173913043
+744,745,Survived,Economy,"Stranden, Mr. Juho",male,31.0,7.925,0.33695652173913043
+745,746,Didn't Survive,First Class,"Crosby, Capt. Edward Gifford",male,70.0,71.0,0.33695652173913043
+746,747,Didn't Survive,Economy,"Abbott, Mr. Rossmore Edward",male,16.0,20.25,0.33695652173913043
+747,748,Survived,Business,"Sinkkonen, Miss. Anna",female,30.0,13.0,0.33695652173913043
+748,749,Didn't Survive,First Class,"Marvin, Mr. Daniel Warner",male,19.0,53.1,0.33695652173913043
+749,750,Didn't Survive,Economy,"Connaghton, Mr. Michael",male,31.0,7.75,0.38961038961038963
+750,751,Survived,Business,"Wells, Miss. Joan",female,4.0,23.0,0.33695652173913043
+751,752,Survived,Economy,"Moor, Master. Meier",male,6.0,12.475,0.33695652173913043
+752,753,Didn't Survive,Economy,"Vande Velde, Mr. Johannes Joseph",male,33.0,9.5,0.33695652173913043
+753,754,Didn't Survive,Economy,"Jonkoff, Mr. Lalio",male,23.0,7.8958,0.33695652173913043
+754,755,Survived,Business,"Herman, Mrs. Samuel (Jane Laver)",female,48.0,65.0,0.33695652173913043
+755,756,Survived,Business,"Hamalainen, Master. Viljo",male,0.67,14.5,0.33695652173913043
+756,757,Didn't Survive,Economy,"Carlsson, Mr. August Sigfrid",male,28.0,7.7958,0.33695652173913043
+757,758,Didn't Survive,Business,"Bailey, Mr. Percy Andrew",male,18.0,11.5,0.33695652173913043
+758,759,Didn't Survive,Economy,"Theobald, Mr. Thomas Leonard",male,34.0,8.05,0.33695652173913043
+759,760,Survived,First Class,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33.0,86.5,0.33695652173913043
+760,761,Didn't Survive,Economy,"Garfirth, Mr. John",male,,14.5,0.33695652173913043
+761,762,Didn't Survive,Economy,"Nirva, Mr. Iisakki Antino Aijo",male,41.0,7.125,0.33695652173913043
+762,763,Survived,Economy,"Barah, Mr. Hanna Assi",male,20.0,7.2292,0.5535714285714286
+763,764,Survived,First Class,"Carter, Mrs. William Ernest (Lucile Polk)",female,36.0,120.0,0.33695652173913043
+764,765,Didn't Survive,Economy,"Eklund, Mr. Hans Linus",male,16.0,7.775,0.33695652173913043
+765,766,Survived,First Class,"Hogeboom, Mrs. John C (Anna Andrews)",female,51.0,77.9583,0.33695652173913043
+766,767,Didn't Survive,First Class,"Brewe, Dr. Arthur Jackson",male,,39.6,0.5535714285714286
+767,768,Didn't Survive,Economy,"Mangan, Miss. Mary",female,30.5,7.75,0.38961038961038963
+768,769,Didn't Survive,Economy,"Moran, Mr. Daniel J",male,,24.15,0.38961038961038963
+769,770,Didn't Survive,Economy,"Gronnestad, Mr. Daniel Danielsen",male,32.0,8.3625,0.33695652173913043
+770,771,Didn't Survive,Economy,"Lievens, Mr. Rene Aime",male,24.0,9.5,0.33695652173913043
+771,772,Didn't Survive,Economy,"Jensen, Mr. Niels Peder",male,48.0,7.8542,0.33695652173913043
+772,773,Didn't Survive,Business,"Mack, Mrs. (Mary)",female,57.0,10.5,0.33695652173913043
+773,774,Didn't Survive,Economy,"Elias, Mr. Dibo",male,,7.225,0.5535714285714286
+774,775,Survived,Business,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54.0,23.0,0.33695652173913043
+775,776,Didn't Survive,Economy,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,18.0,7.75,0.33695652173913043
+776,777,Didn't Survive,Economy,"Tobin, Mr. Roger",male,,7.75,0.38961038961038963
+777,778,Survived,Economy,"Emanuel, Miss. Virginia Ethel",female,5.0,12.475,0.33695652173913043
+778,779,Didn't Survive,Economy,"Kilgannon, Mr. Thomas J",male,,7.7375,0.38961038961038963
+779,780,Survived,First Class,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43.0,211.3375,0.33695652173913043
+780,781,Survived,Economy,"Ayoub, Miss. Banoura",female,13.0,7.2292,0.5535714285714286
+781,782,Survived,First Class,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17.0,57.0,0.33695652173913043
+782,783,Didn't Survive,First Class,"Long, Mr. Milton Clyde",male,29.0,30.0,0.33695652173913043
+783,784,Didn't Survive,Economy,"Johnston, Mr. Andrew G",male,,23.45,0.33695652173913043
+784,785,Didn't Survive,Economy,"Ali, Mr. William",male,25.0,7.05,0.33695652173913043
+785,786,Didn't Survive,Economy,"Harmer, Mr. Abraham (David Lishin)",male,25.0,7.25,0.33695652173913043
+786,787,Survived,Economy,"Sjoblom, Miss. Anna Sofia",female,18.0,7.4958,0.33695652173913043
+787,788,Didn't Survive,Economy,"Rice, Master. George Hugh",male,8.0,29.125,0.38961038961038963
+788,789,Survived,Economy,"Dean, Master. Bertram Vere",male,1.0,20.575,0.33695652173913043
+789,790,Didn't Survive,First Class,"Guggenheim, Mr. Benjamin",male,46.0,79.2,0.5535714285714286
+790,791,Didn't Survive,Economy,"Keane, Mr. Andrew ""Andy""",male,,7.75,0.38961038961038963
+791,792,Didn't Survive,Business,"Gaskell, Mr. Alfred",male,16.0,26.0,0.33695652173913043
+792,793,Didn't Survive,Economy,"Sage, Miss. Stella Anna",female,,69.55,0.33695652173913043
+793,794,Didn't Survive,First Class,"Hoyt, Mr. William Fisher",male,,30.6958,0.5535714285714286
+794,795,Didn't Survive,Economy,"Dantcheff, Mr. Ristiu",male,25.0,7.8958,0.33695652173913043
+795,796,Didn't Survive,Business,"Otter, Mr. Richard",male,39.0,13.0,0.33695652173913043
+796,797,Survived,First Class,"Leader, Dr. Alice (Farnham)",female,49.0,25.9292,0.33695652173913043
+797,798,Survived,Economy,"Osman, Mrs. Mara",female,31.0,8.6833,0.33695652173913043
+798,799,Didn't Survive,Economy,"Ibrahim Shawah, Mr. Yousseff",male,30.0,7.2292,0.5535714285714286
+799,800,Didn't Survive,Economy,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30.0,24.15,0.33695652173913043
+800,801,Didn't Survive,Business,"Ponesell, Mr. Martin",male,34.0,13.0,0.33695652173913043
+801,802,Survived,Business,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31.0,26.25,0.33695652173913043
+802,803,Survived,First Class,"Carter, Master. William Thornton II",male,11.0,120.0,0.33695652173913043
+803,804,Survived,Economy,"Thomas, Master. Assad Alexander",male,0.42,8.5167,0.5535714285714286
+804,805,Survived,Economy,"Hedman, Mr. Oskar Arvid",male,27.0,6.975,0.33695652173913043
+805,806,Didn't Survive,Economy,"Johansson, Mr. Karl Johan",male,31.0,7.775,0.33695652173913043
+806,807,Didn't Survive,First Class,"Andrews, Mr. Thomas Jr",male,39.0,0.0,0.33695652173913043
+807,808,Didn't Survive,Economy,"Pettersson, Miss. Ellen Natalia",female,18.0,7.775,0.33695652173913043
+808,809,Didn't Survive,Business,"Meyer, Mr. August",male,39.0,13.0,0.33695652173913043
+809,810,Survived,First Class,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33.0,53.1,0.33695652173913043
+810,811,Didn't Survive,Economy,"Alexander, Mr. William",male,26.0,7.8875,0.33695652173913043
+811,812,Didn't Survive,Economy,"Lester, Mr. James",male,39.0,24.15,0.33695652173913043
+812,813,Didn't Survive,Business,"Slemen, Mr. Richard James",male,35.0,10.5,0.33695652173913043
+813,814,Didn't Survive,Economy,"Andersson, Miss. Ebba Iris Alfrida",female,6.0,31.275,0.33695652173913043
+814,815,Didn't Survive,Economy,"Tomlin, Mr. Ernest Portage",male,30.5,8.05,0.33695652173913043
+815,816,Didn't Survive,First Class,"Fry, Mr. Richard",male,,0.0,0.33695652173913043
+816,817,Didn't Survive,Economy,"Heininen, Miss. Wendla Maria",female,23.0,7.925,0.33695652173913043
+817,818,Didn't Survive,Business,"Mallet, Mr. Albert",male,31.0,37.0042,0.5535714285714286
+818,819,Didn't Survive,Economy,"Holm, Mr. John Fredrik Alexander",male,43.0,6.45,0.33695652173913043
+819,820,Didn't Survive,Economy,"Skoog, Master. Karl Thorsten",male,10.0,27.9,0.33695652173913043
+820,821,Survived,First Class,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52.0,93.5,0.33695652173913043
+821,822,Survived,Economy,"Lulic, Mr. Nikola",male,27.0,8.6625,0.33695652173913043
+822,823,Didn't Survive,First Class,"Reuchlin, Jonkheer. John George",male,38.0,0.0,0.33695652173913043
+823,824,Survived,Economy,"Moor, Mrs. (Beila)",female,27.0,12.475,0.33695652173913043
+824,825,Didn't Survive,Economy,"Panula, Master. Urho Abraham",male,2.0,39.6875,0.33695652173913043
+825,826,Didn't Survive,Economy,"Flynn, Mr. John",male,,6.95,0.38961038961038963
+826,827,Didn't Survive,Economy,"Lam, Mr. Len",male,,56.4958,0.33695652173913043
+827,828,Survived,Business,"Mallet, Master. Andre",male,1.0,37.0042,0.5535714285714286
+828,829,Survived,Economy,"McCormack, Mr. Thomas Joseph",male,,7.75,0.38961038961038963
+829,830,Survived,First Class,"Stone, Mrs. George Nelson (Martha Evelyn)",female,62.0,80.0,
+830,831,Survived,Economy,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15.0,14.4542,0.5535714285714286
+831,832,Survived,Business,"Richards, Master. George Sibley",male,0.83,18.75,0.33695652173913043
+832,833,Didn't Survive,Economy,"Saad, Mr. Amin",male,,7.2292,0.5535714285714286
+833,834,Didn't Survive,Economy,"Augustsson, Mr. Albert",male,23.0,7.8542,0.33695652173913043
+834,835,Didn't Survive,Economy,"Allum, Mr. Owen George",male,18.0,8.3,0.33695652173913043
+835,836,Survived,First Class,"Compton, Miss. Sara Rebecca",female,39.0,83.1583,0.5535714285714286
+836,837,Didn't Survive,Economy,"Pasic, Mr. Jakob",male,21.0,8.6625,0.33695652173913043
+837,838,Didn't Survive,Economy,"Sirota, Mr. Maurice",male,,8.05,0.33695652173913043
+838,839,Survived,Economy,"Chip, Mr. Chang",male,32.0,56.4958,0.33695652173913043
+839,840,Survived,First Class,"Marechal, Mr. Pierre",male,,29.7,0.5535714285714286
+840,841,Didn't Survive,Economy,"Alhomaki, Mr. Ilmari Rudolf",male,20.0,7.925,0.33695652173913043
+841,842,Didn't Survive,Business,"Mudd, Mr. Thomas Charles",male,16.0,10.5,0.33695652173913043
+842,843,Survived,First Class,"Serepeca, Miss. Augusta",female,30.0,31.0,0.5535714285714286
+843,844,Didn't Survive,Economy,"Lemberopolous, Mr. Peter L",male,34.5,6.4375,0.5535714285714286
+844,845,Didn't Survive,Economy,"Culumovic, Mr. Jeso",male,17.0,8.6625,0.33695652173913043
+845,846,Didn't Survive,Economy,"Abbing, Mr. Anthony",male,42.0,7.55,0.33695652173913043
+846,847,Didn't Survive,Economy,"Sage, Mr. Douglas Bullen",male,,69.55,0.33695652173913043
+847,848,Didn't Survive,Economy,"Markoff, Mr. Marin",male,35.0,7.8958,0.5535714285714286
+848,849,Didn't Survive,Business,"Harper, Rev. John",male,28.0,33.0,0.33695652173913043
+849,850,Survived,First Class,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,,89.1042,0.5535714285714286
+850,851,Didn't Survive,Economy,"Andersson, Master. Sigvard Harald Elias",male,4.0,31.275,0.33695652173913043
+851,852,Didn't Survive,Economy,"Svensson, Mr. Johan",male,74.0,7.775,0.33695652173913043
+852,853,Didn't Survive,Economy,"Boulos, Miss. Nourelain",female,9.0,15.2458,0.5535714285714286
+853,854,Survived,First Class,"Lines, Miss. Mary Conover",female,16.0,39.4,0.33695652173913043
+854,855,Didn't Survive,Business,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,44.0,26.0,0.33695652173913043
+855,856,Survived,Economy,"Aks, Mrs. Sam (Leah Rosen)",female,18.0,9.35,0.33695652173913043
+856,857,Survived,First Class,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45.0,164.8667,0.33695652173913043
+857,858,Survived,First Class,"Daly, Mr. Peter Denis ",male,51.0,26.55,0.33695652173913043
+858,859,Survived,Economy,"Baclini, Mrs. Solomon (Latifa Qurban)",female,24.0,19.2583,0.5535714285714286
+859,860,Didn't Survive,Economy,"Razi, Mr. Raihed",male,,7.2292,0.5535714285714286
+860,861,Didn't Survive,Economy,"Hansen, Mr. Claus Peter",male,41.0,14.1083,0.33695652173913043
+861,862,Didn't Survive,Business,"Giles, Mr. Frederick Edward",male,21.0,11.5,0.33695652173913043
+862,863,Survived,First Class,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48.0,25.9292,0.33695652173913043
+863,864,Didn't Survive,Economy,"Sage, Miss. Dorothy Edith ""Dolly""",female,,69.55,0.33695652173913043
+864,865,Didn't Survive,Business,"Gill, Mr. John William",male,24.0,13.0,0.33695652173913043
+865,866,Survived,Business,"Bystrom, Mrs. (Karolina)",female,42.0,13.0,0.33695652173913043
+866,867,Survived,Business,"Duran y More, Miss. Asuncion",female,27.0,13.8583,0.5535714285714286
+867,868,Didn't Survive,First Class,"Roebling, Mr. Washington Augustus II",male,31.0,50.4958,0.33695652173913043
+868,869,Didn't Survive,Economy,"van Melkebeke, Mr. Philemon",male,,9.5,0.33695652173913043
+869,870,Survived,Economy,"Johnson, Master. Harold Theodor",male,4.0,11.1333,0.33695652173913043
+870,871,Didn't Survive,Economy,"Balkic, Mr. Cerin",male,26.0,7.8958,0.33695652173913043
+871,872,Survived,First Class,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47.0,52.5542,0.33695652173913043
+872,873,Didn't Survive,First Class,"Carlsson, Mr. Frans Olof",male,33.0,5.0,0.33695652173913043
+873,874,Didn't Survive,Economy,"Vander Cruyssen, Mr. Victor",male,47.0,9.0,0.33695652173913043
+874,875,Survived,Business,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,28.0,24.0,0.5535714285714286
+875,876,Survived,Economy,"Najib, Miss. Adele Kiamie ""Jane""",female,15.0,7.225,0.5535714285714286
+876,877,Didn't Survive,Economy,"Gustafsson, Mr. Alfred Ossian",male,20.0,9.8458,0.33695652173913043
+877,878,Didn't Survive,Economy,"Petroff, Mr. Nedelio",male,19.0,7.8958,0.33695652173913043
+878,879,Didn't Survive,Economy,"Laleff, Mr. Kristo",male,,7.8958,0.33695652173913043
+879,880,Survived,First Class,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56.0,83.1583,0.5535714285714286
+880,881,Survived,Business,"Shelley, Mrs. William (Imanita Parrish Hall)",female,25.0,26.0,0.33695652173913043
+881,882,Didn't Survive,Economy,"Markun, Mr. Johann",male,33.0,7.8958,0.33695652173913043
+882,883,Didn't Survive,Economy,"Dahlberg, Miss. Gerda Ulrika",female,22.0,10.5167,0.33695652173913043
+883,884,Didn't Survive,Business,"Banfield, Mr. Frederick James",male,28.0,10.5,0.33695652173913043
+884,885,Didn't Survive,Economy,"Sutehall, Mr. Henry Jr",male,25.0,7.05,0.33695652173913043
+885,886,Didn't Survive,Economy,"Rice, Mrs. William (Margaret Norton)",female,39.0,29.125,0.38961038961038963
+886,887,Didn't Survive,Business,"Montvila, Rev. Juozas",male,27.0,13.0,0.33695652173913043
+887,888,Survived,First Class,"Graham, Miss. Margaret Edith",female,19.0,30.0,0.33695652173913043
+888,889,Didn't Survive,Economy,"Johnston, Miss. Catherine Helen ""Carrie""",female,,23.45,0.33695652173913043
+889,890,Survived,First Class,"Behr, Mr. Karl Howell",male,26.0,30.0,0.5535714285714286
+890,891,Didn't Survive,Economy,"Dooley, Mr. Patrick",male,32.0,7.75,0.38961038961038963
